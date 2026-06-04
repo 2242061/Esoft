@@ -86,7 +86,7 @@ public class Main {
                 10
         );
 
-        System.out.println("Árbitro criado:");
+        System.out.println("Arbitro criado:");
         System.out.println(arbitro);
 
         System.out.println();
@@ -105,7 +105,7 @@ public class Main {
 
         System.out.println("Jogo criado:");
         System.out.println(jogo.getInfoJogo());
-        System.out.println("Árbitro: " + jogo.getArbitro().getNome());
+        System.out.println("Arbitro: " + jogo.getArbitro().getNome());
 
         System.out.println();
 
