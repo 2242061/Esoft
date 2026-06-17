@@ -1,0 +1,1104 @@
+1;Guillermo Ochoa;México;Sporting FC;Guarda-Redes;1.85;78.0;79;13
+2;Luis Malagón;México;América;Guarda-Redes;1.81;75.0;76;1
+3;Julio González;México;Pumas;Guarda-Redes;1.83;77.0;75;12
+4;César Montes;México;Almería;Defesa;1.91;82.0;78;3
+5;Johan Vásquez;México;Genoa;Defesa;1.84;78.0;77;5
+6;Gerardo Arteaga;México;Monterrey;Defesa;1.75;68.0;76;6
+7;Jorge Sánchez;México;Porto;Defesa;1.75;73.0;76;2
+8;Kevin Álvarez;México;América;Defesa;1.76;71.0;75;4
+9;Edson Álvarez;México;West Ham;Médio;1.87;73.0;81;14
+10;Luis Romo;México;Monterrey;Médio;1.84;77.0;77;7
+11;Erick Sánchez;México;Pachuca;Médio;1.67;65.0;76;17
+12;Orbelín Pineda;México;AEK Atenas;Médio;1.69;68.0;77;10
+13;Luis Chávez;México;Dínamo Moscovo;Médio;1.78;73.0;78;24
+14;Roberto Alvarado;México;Chivas;Médio;1.76;70.0;76;25
+15;Marcel Ruiz;México;Toluca;Médio;1.79;74.0;74;15
+16;Hirving Lozano;México;PSV;Avançado;1.75;70.0;81;22
+17;Santiago Giménez;México;Feyenoord;Avançado;1.83;76.0;82;29
+18;Julián Quiñones;México;América;Avançado;1.77;78.0;78;33
+19;Uriel Antuna;México;Cruz Azul;Avançado;1.74;69.0;76;21
+20;César Huerta;México;Pumas;Avançado;1.71;68.0;75;16
+21;Raúl Jiménez;México;Fulham;Avançado;1.9;81.0;78;9
+22;Henry Martín;México;América;Avançado;1.77;74.0;77;11
+23;Alexis Vega;México;Toluca;Avançado;1.73;77.0;76;10
+24;Jindřich Staněk;Chéquia;Slavia Praga;Guarda-Redes;1.92;84.0;78;1
+25;Matěj Kovář;Chéquia;Bayer Leverkusen;Guarda-Redes;1.96;88.0;77;36
+26;Vítězslav Jaroš;Chéquia;Sturm Graz;Guarda-Redes;1.9;82.0;73;16
+27;Vladimír Coufal;Chéquia;West Ham;Defesa;1.79;76.0;78;5
+28;Tomáš Holeš;Chéquia;Slavia Praga;Defesa;1.8;73.0;77;18
+29;Ladislav Krejčí;Chéquia;Sparta Praga;Defesa;1.91;85.0;79;3
+30;Martin Vitík;Chéquia;Sparta Praga;Defesa;1.92;83.0;75;4
+31;David Zima;Chéquia;Slavia Praga;Defesa;1.92;82.0;76;2
+32;David Jurásek;Chéquia;Hoffenheim;Defesa;1.83;76.0;76;12
+33;Tomáš Souček;Chéquia;West Ham;Médio;1.92;86.0;80;22
+34;Antonín Barák;Chéquia;Fiorentina;Médio;1.9;86.0;79;7
+35;Michal Sadílek;Chéquia;Twente;Médio;1.69;66.0;76;6
+36;Pavel Šulc;Chéquia;Viktoria Plzeň;Médio;1.78;71.0;74;21
+37;Ondřej Lingr;Chéquia;Feyenoord;Médio;1.75;70.0;75;10
+38;Matěj Jurásek;Chéquia;Slavia Praga;Médio;1.82;74.0;74;23
+39;Lukáš Provod;Chéquia;Slavia Praga;Médio;1.89;82.0;77;14
+40;Václav Černý;Chéquia;Wolfsburg;Médio;1.74;68.0;77;11
+41;Patrik Schick;Chéquia;Bayer Leverkusen;Avançado;1.91;83.0;82;10
+42;Adam Hložek;Chéquia;Bayer Leverkusen;Avançado;1.88;86.0;78;9
+43;Mojmír Chytil;Chéquia;Slavia Praga;Avançado;1.87;84.0;75;13
+44;Tomáš Chorý;Chéquia;Viktoria Plzeň;Avançado;1.99;98.0;74;15
+45;Jan Kuchta;Chéquia;Sparta Praga;Avançado;1.85;81.0;76;20
+46;Vasil Kušej;Chéquia;Mladá Boleslav;Avançado;1.68;67.0;72;24
+47;Jo Hyeon-woo;Coreia do Sul;Ulsan HD;Guarda-Redes;1.89;75.0;75;21
+48;Song Bum-keun;Coreia do Sul;Shonan Bellmare;Guarda-Redes;1.94;88.0;72;1
+49;Lee Chang-geun;Coreia do Sul;Daejeon;Guarda-Redes;1.86;78.0;70;12
+50;Kim Min-jae;Coreia do Sul;Bayern Munique;Defesa;1.9;88.0;84;4
+51;Kim Young-gwon;Coreia do Sul;Ulsan HD;Defesa;1.86;81.0;74;19
+52;Jung Seung-hyun;Coreia do Sul;Al-Wasl;Defesa;1.88;80.0;73;15
+53;Seol Young-woo;Coreia do Sul;Ulsan HD;Defesa;1.8;72.0;74;22
+54;Kim Jin-su;Coreia do Sul;Jeonbuk;Defesa;1.77;68.0;73;3
+55;Lee Ki-je;Coreia do Sul;Suwon;Defesa;1.75;71.0;71;2
+56;Kim Tae-hwan;Coreia do Sul;Jeonbuk;Defesa;1.77;72.0;72;23
+57;Hwang In-beom;Coreia do Sul;Estrela Vermelha;Médio;1.77;70.0;77;6
+58;Lee Jae-sung;Coreia do Sul;Mainz 05;Médio;1.8;70.0;76;10
+59;Park Yong-woo;Coreia do Sul;Al-Ain;Médio;1.86;80.0;73;8
+60;Hong Hyun-seok;Coreia do Sul;Gent;Médio;1.77;69.0;74;7
+61;Lee Soon-min;Coreia do Sul;Daejeon;Médio;1.78;74.0;71;5
+62;Jeong Woo-yeong;Coreia do Sul;Stuttgart;Médio;1.8;70.0;75;17
+63;Son Heung-min;Coreia do Sul;Tottenham;Avançado;1.83;78.0;87;7
+64;Lee Kang-in;Coreia do Sul;PSG;Avançado;1.73;66.0;81;18
+65;Hwang Hee-chan;Coreia do Sul;Wolves;Avançado;1.77;77.0;78;11
+66;Cho Gue-sung;Coreia do Sul;Midtjylland;Avançado;1.89;82.0;75;9
+67;Oh Hyeon-gyu;Coreia do Sul;Celtic;Avançado;1.85;82.0;73;19
+68;Yang Hyun-jun;Coreia do Sul;Celtic;Avançado;1.79;73.0;72;20
+69;Moon Seon-min;Coreia do Sul;Jeonbuk;Avançado;1.72;68.0;71;16
+70;Ronwen Williams;África do Sul;Mamelodi Sundowns;Guarda-Redes;1.84;79.0;75;1
+71;Veli Mothwa;África do Sul;AmaZulu;Guarda-Redes;1.85;81.0;70;16
+72;Ricardo Goss;África do Sul;SuperSport Utd;Guarda-Redes;1.82;78.0;69;22
+73;Mothobi Mvala;África do Sul;Mamelodi Sundowns;Defesa;1.78;77.0;73;5
+74;Grant Kekana;África do Sul;Mamelodi Sundowns;Defesa;1.8;76.0;72;2
+75;Siyanda Xulu;África do Sul;SuperSport Utd;Defesa;1.89;82.0;71;3
+76;Khuliso Mudau;África do Sul;Mamelodi Sundowns;Defesa;1.75;70.0;74;14
+77;Sydney Mobbie;África do Sul;Sekhukhune Utd;Defesa;1.73;68.0;70;20
+78;Aubrey Modiba;África do Sul;Mamelodi Sundowns;Defesa;1.72;67.0;73;4
+79;Terrence Mashego;África do Sul;Mamelodi Sundowns;Defesa;1.74;70.0;71;6
+80;Teboho Mokoena;África do Sul;Mamelodi Sundowns;Médio;1.76;72.0;76;8
+81;Sphephelo Sithole;África do Sul;Tondela;Médio;1.86;79.0;73;15
+82;Thapelo Maseko;África do Sul;Mamelodi Sundowns;Médio;1.7;65.0;72;11
+83;Thapelo Morena;África do Sul;Mamelodi Sundowns;Médio;1.71;66.0;73;18
+84;Jayden Adams;África do Sul;Stellenbosch;Médio;1.78;71.0;70;17
+85;Sibongiseni Mthethwa;África do Sul;Kaizer Chiefs;Médio;1.81;75.0;71;25
+86;Themba Zwane;África do Sul;Mamelodi Sundowns;Médio;1.73;70.0;75;10
+87;Percy Tau;África do Sul;Al Ahly;Avançado;1.75;70.0;76;19
+88;Zakhele Lepasa;África do Sul;Orlando Pirates;Avançado;1.82;77.0;72;9
+89;Evidence Makgopa;África do Sul;Orlando Pirates;Avançado;1.89;80.0;71;24
+90;Oswin Appollis;África do Sul;Polokwane City;Avançado;1.71;67.0;70;26
+91;Mihlali Mayambela;África do Sul;Aris Limassol;Avançado;1.78;72.0;72;7
+92;Iqraam Rayners;África do Sul;Stellenbosch;Avançado;1.76;74.0;71;23
+93;Milan Borjan;Canadá;Crvena zvezda;Guarda-Redes;1.93;90.0;75;18
+94;Maxime Crépeau;Canadá;Portland Timbers;Guarda-Redes;1.83;80.0;72;16
+95;Dayne St. Clair;Canadá;Minnesota United;Guarda-Redes;1.88;82.0;70;1
+96;Alistair Johnston;Canadá;Celtic;Defesa;1.82;75.0;76;2
+97;Kamal Miller;Canadá;Portland Timbers;Defesa;1.83;78.0;73;4
+98;Derek Cornelius;Canadá;Malmö;Defesa;1.88;82.0;71;5
+99;Richie Laryea;Canadá;Toronto FC;Defesa;1.75;70.0;72;22
+100;Joel Waterman;Canadá;CF Montréal;Defesa;1.88;80.0;68;26
+101;Alphonso Davies;Canadá;Bayern Munique;Defesa;1.81;72.0;83;19
+102;Stephen Eustáquio;Canadá;Porto;Médio;1.76;70.0;78;7
+103;Samuel Piette;Canadá;CF Montréal;Médio;1.75;71.0;69;6
+104;Jonathan Osorio;Canadá;Toronto FC;Médio;1.75;68.0;73;21
+105;Ismaël Koné;Canadá;Watford;Médio;1.88;80.0;72;8
+106;Mathieu Choinière;Canadá;CF Montréal;Médio;1.76;70.0;69;14
+107;Cyle Larin;Canadá;Mallorca;Avançado;1.88;85.0;75;17
+108;Jonathan David;Canadá;Lille;Avançado;1.80;77.0;81;20
+109;Tajon Buchanan;Canadá;Inter;Avançado;1.83;70.0;76;11
+110;Liam Millar;Canadá;Preston;Avançado;1.78;70.0;70;23
+111;Ike Ugbo;Canadá;Troyes;Avançado;1.83;75.0;70;12
+112;Junior Hoilett;Canadá;Aberdeen;Avançado;1.73;70.0;71;10
+113;Moïse Bombito;Canadá;Colorado Rapids;Defesa;1.90;80.0;72;15
+114;Jacob Shaffelburg;Canadá;Nashville SC;Avançado;1.73;68.0;70;24
+115;Tani Oluwaseyi;Canadá;Minnesota United;Avançado;1.88;82.0;69;9
+116;Yann Sommer;Suíça;Inter;Guarda-Redes;1.83;79.0;84;1
+117;Gregor Kobel;Suíça;Dortmund;Guarda-Redes;1.89;88.0;87;12
+118;Yvon Mvogo;Suíça;Lorient;Guarda-Redes;1.88;80.0;75;21
+119;Manuel Akanji;Suíça;Manchester City;Defesa;1.87;91.0;82;5
+120;Nico Elvedi;Suíça;Borussia M'gladbach;Defesa;1.89;80.0;78;4
+121;Ricardo Rodríguez;Suíça;Torino;Defesa;1.80;77.0;79;13
+122;Fabian Schär;Suíça;Newcastle;Defesa;1.86;84.0;80;22
+123;Silvan Widmer;Suíça;Mainz;Defesa;1.83;78.0;77;3
+124;Cedric Zesiger;Suíça;Wolfsburg;Defesa;1.88;84.0;76;15
+125;Granit Xhaka;Suíça;Bayer Leverkusen;Médio;1.86;80.0;86;10
+126;Denis Zakaria;Suíça;Monaco;Médio;1.91;85.0;81;6
+127;Remo Freuler;Suíça;Bologna;Médio;1.81;75.0;79;8
+128;Michel Aebischer;Suíça;Bologna;Médio;1.82;73.0;77;20
+129;Vincent Sierro;Suíça;Toulouse;Médio;1.84;78.0;75;26
+130;Xherdan Shaqiri;Suíça;Chicago Fire;Avançado;1.69;72.0;78;23
+131;Breel Embolo;Suíça;Monaco;Avançado;1.87;84.0;79;7
+132;Noah Okafor;Suíça;Milan;Avançado;1.85;85.0;78;19
+133;Dan Ndoye;Suíça;Bologna;Avançado;1.77;70.0;75;24
+134;Ruben Vargas;Suíça;Augsburg;Avançado;1.77;72.0;77;17
+135;Zeki Amdouni;Suíça;Burnley;Avançado;1.85;78.0;76;25
+136;Renato Steffen;Suíça;Lugano;Avançado;1.70;68.0;73;11
+137;Kwadwo Duah;Suíça;Ludogorets;Avançado;1.85;80.0;72;18
+138;Leonidas Stergiou;Suíça;Stuttgart;Defesa;1.80;75.0;74;2
+139;Nikola Vasilj;Bósnia-Herzegovina;St. Pauli;Guarda-Redes;1.93;88.0;72;1
+140;Kenan Pirić;Bósnia-Herzegovina;AEK Larnaca;Guarda-Redes;1.93;85.0;68;12
+141;Osman Hadžikić;Bósnia-Herzegovina;Velež Mostar;Guarda-Redes;1.86;80.0;65;22
+142;Sead Kolašinac;Bósnia-Herzegovina;Atalanta;Defesa;1.83;85.0;79;5
+143;Anel Ahmedhodžić;Bósnia-Herzegovina;Sheffield Utd;Defesa;1.95;82.0;77;6
+144;Dennis Hadžikadunić;Bósnia-Herzegovina;Hamburger SV;Defesa;1.88;82.0;74;3
+145;Amar Dedić;Bósnia-Herzegovina;RB Salzburg;Defesa;1.81;72.0;76;13
+146;Jusuf Gazibegović;Bósnia-Herzegovina;Sturm Graz;Defesa;1.74;68.0;73;2
+147;Adrian Leon Barišić;Bósnia-Herzegovina;Basel;Defesa;1.90;82.0;71;15
+148;Miralem Pjanić;Bósnia-Herzegovina;Al-Sharjah;Médio;1.78;72.0;78;8
+149;Rade Krunić;Bósnia-Herzegovina;Fenerbahçe;Médio;1.84;75.0;77;7
+150;Gojko Cimirot;Bósnia-Herzegovina;Al-Fayha;Médio;1.78;70.0;72;19
+151;Benjamin Tahirović;Bósnia-Herzegovina;Ajax;Médio;1.85;78.0;73;23
+152;Amir Hadžiahmetović;Bósnia-Herzegovina;Beşiktaş;Médio;1.78;68.0;75;10
+153;Haris Hajradinović;Bósnia-Herzegovina;Kasımpaşa;Médio;1.78;70.0;72;14
+154;Edin Džeko;Bósnia-Herzegovina;Fenerbahçe;Avançado;1.93;80.0;83;11
+155;Ermedin Demirović;Bósnia-Herzegovina;Augsburg;Avançado;1.85;80.0;78;9
+156;Smail Prevljak;Bósnia-Herzegovina;Hertha Berlin;Avançado;1.87;82.0;71;20
+157;Said Hamulić;Bósnia-Herzegovina;Lokomotiv Moscou;Avançado;1.88;80.0;69;17
+158;Nemanja Bilbija;Bósnia-Herzegovina;Zrinjski;Avançado;1.83;78.0;68;26
+159;Dal Varešanović;Bósnia-Herzegovina;Rizespor;Médio;1.78;68.0;67;24
+160;Tarik Muharemović;Bósnia-Herzegovina;Juventus Next Gen;Defesa;1.86;78.0;66;16
+161;Ivan Bašić;Bósnia-Herzegovina;Orenburg;Médio;1.81;75.0;68;21
+162;Meshaal Barsham;Catar;Al-Sadd;Guarda-Redes;1.85;78.0;68;22
+163;Saad Al-Sheeb;Catar;Al-Sadd;Guarda-Redes;1.83;75.0;65;1
+164;Salah Zakaria;Catar;Al-Duhail;Guarda-Redes;1.86;76.0;66;21
+165;Boualem Khoukhi;Catar;Al-Sadd;Defesa;1.84;77.0;70;15
+166;Bassam Al-Rawi;Catar;Al-Rayyan;Defesa;1.82;74.0;68;5
+167;Lucas Mendes;Catar;Al-Wakrah;Defesa;1.83;76.0;69;12
+168;Tarek Salman;Catar;Al-Sadd;Defesa;1.80;72.0;67;16
+169;Homam Ahmed;Catar;Al-Gharafa;Defesa;1.78;70.0;68;14
+170;Pedro Miguel;Catar;Al-Sadd;Defesa;1.77;71.0;67;2
+171;Sultan Al-Brake;Catar;Al-Duhail;Defesa;1.75;68.0;65;18
+172;Abdulaziz Hatem;Catar;Al-Rayyan;Médio;1.81;73.0;68;6
+173;Karim Boudiaf;Catar;Al-Duhail;Médio;1.90;82.0;69;8
+174;Hassan Al-Haydos;Catar;Al-Sadd;Médio;1.73;68.0;71;10
+175;Ahmed Fathy;Catar;Al-Arabi;Médio;1.79;70.0;67;20
+176;Jassem Gaber;Catar;Al-Arabi;Médio;1.78;71.0;66;23
+177;Mostafa Meshaal;Catar;Al-Sadd;Médio;1.76;68.0;65;24
+178;Akram Afif;Catar;Al-Sadd;Avançado;1.77;67.0;75;11
+179;Almoez Ali;Catar;Al-Duhail;Avançado;1.80;70.0;70;19
+180;Yusuf Abdurisag;Catar;Al-Sadd;Avançado;1.75;68.0;67;17
+181;Ahmed Alaaeldin;Catar;Al-Gharafa;Avançado;1.81;74.0;66;9
+182;Hazem Shehata;Catar;Al-Rayyan;Avançado;1.76;69.0;65;13
+183;Ahmed Al-Rawi;Catar;Al-Rayyan;Avançado;1.82;72.0;66;7
+184;Ibrahim Al-Hassan;Catar;Al-Rayyan;Médio;1.74;67.0;64;25
+185;Alisson Becker;Brasil;Liverpool;Guarda-Redes;1.91;91.0;89;1
+186;Ederson;Brasil;Manchester City;Guarda-Redes;1.88;86.0;88;23
+187;Bento;Brasil;Athletico Paranaense;Guarda-Redes;1.90;82.0;78;12
+188;Marquinhos;Brasil;PSG;Defesa;1.83;75.0;85;4
+189;Éder Militão;Brasil;Real Madrid;Defesa;1.86;79.0;85;3
+190;Danilo;Brasil;Juventus;Defesa;1.84;78.0;81;2
+191;Gabriel Magalhães;Brasil;Arsenal;Defesa;1.90;87.0;84;6
+192;Guilherme Arana;Brasil;Atlético Mineiro;Defesa;1.78;70.0;77;16
+193;Yan Couto;Brasil;Girona;Defesa;1.68;60.0;76;13
+194;Bremer;Brasil;Juventus;Defesa;1.88;86.0;83;17
+195;Beraldo;Brasil;PSG;Defesa;1.85;78.0;77;25
+196;Bruno Guimarães;Brasil;Newcastle;Médio;1.82;74.0;85;8
+197;Lucas Paquetá;Brasil;West Ham;Médio;1.80;72.0;84;18
+198;Douglas Luiz;Brasil;Aston Villa;Médio;1.78;66.0;82;5
+199;João Gomes;Brasil;Wolves;Médio;1.76;70.0;79;15
+200;Andreas Pereira;Brasil;Fulham;Médio;1.78;71.0;78;14
+201;Ederson;Brasil;Atalanta;Médio;1.78;70.0;77;24
+202;Vinícius Jr;Brasil;Real Madrid;Avançado;1.76;73.0;89;7
+203;Rodrygo;Brasil;Real Madrid;Avançado;1.74;64.0;85;11
+204;Gabriel Martinelli;Brasil;Arsenal;Avançado;1.78;75.0;84;22
+205;Raphinha;Brasil;Barcelona;Avançado;1.76;68.0;83;20
+206;Endrick;Brasil;Real Madrid;Avançado;1.73;66.0;78;9
+207;Savinho;Brasil;Girona;Avançado;1.76;66.0;79;21
+208;Yassine Bounou;Marrocos;Al-Hilal;Guarda-Redes;1.92;78.0;85;1
+209;Munir Mohamedi;Marrocos;Al-Wehda;Guarda-Redes;1.89;80.0;74;12
+210;El Mehdi Benabid;Marrocos;AS FAR;Guarda-Redes;1.88;79.0;70;22
+211;Achraf Hakimi;Marrocos;PSG;Defesa;1.81;73.0;84;2
+212;Nayef Aguerd;Marrocos;West Ham;Defesa;1.88;76.0;80;5
+213;Romain Saïss;Marrocos;Al-Shabab;Defesa;1.88;80.0;78;6
+214;Noussair Mazraoui;Marrocos;Bayern Munique;Defesa;1.83;72.0;81;3
+215;Yahia Attiyat Allah;Marrocos;Sochi;Defesa;1.76;70.0;74;25
+216;Chadi Riad;Marrocos;Real Betis;Defesa;1.86;76.0;75;18
+217;Abdel Abqar;Marrocos;Alavés;Defesa;1.88;80.0;73;26
+218;Sofyan Amrabat;Marrocos;Man Utd;Médio;1.85;77.0;80;4
+219;Azzedine Ounahi;Marrocos;Marselha;Médio;1.82;62.0;77;8
+220;Bilal El Khannouss;Marrocos;Genk;Médio;1.78;68.0;76;23
+221;Amir Richardson;Marrocos;Reims;Médio;1.95;75.0;72;15
+222;Selim Amallah;Marrocos;Valencia;Médio;1.86;78.0;74;11
+223;Benjamin Bouchouari;Marrocos;Saint-Étienne;Médio;1.70;65.0;71;17
+224;Hakim Ziyech;Marrocos;Galatasaray;Avançado;1.80;70.0;81;7
+225;Youssef En-Nesyri;Marrocos;Sevilla;Avançado;1.88;73.0;80;19
+226;Brahim Díaz;Marrocos;Real Madrid;Avançado;1.71;68.0;82;10
+227;Amine Adli;Marrocos;Bayer Leverkusen;Avançado;1.74;68.0;78;21
+228;Abde Ezzalzouli;Marrocos;Real Betis;Avançado;1.77;68.0;76;16
+229;Ayoub El Kaabi;Marrocos;Olympiacos;Avançado;1.82;75.0;75;9
+230;Ilias Akhomach;Marrocos;Villarreal;Avançado;1.72;67.0;73;14
+231;Angus Gunn;Escócia;Norwich;Guarda-Redes;1.96;88.0;74;1
+232;Zander Clark;Escócia;Hearts;Guarda-Redes;1.91;85.0;70;12
+233;Liam Kelly;Escócia;Motherwell;Guarda-Redes;1.88;80.0;68;21
+234;Andrew Robertson;Escócia;Liverpool;Defesa;1.78;64.0;82;26
+235;Kieran Tierney;Escócia;Real Sociedad;Defesa;1.78;70.0;80;6
+236;Grant Hanley;Escócia;Norwich;Defesa;1.91;85.0;75;5
+237;Jack Hendry;Escócia;Al-Ettifaq;Defesa;1.88;82.0;74;13
+238;Ryan Porteous;Escócia;Watford;Defesa;1.85;78.0;73;15
+239;Scott McKenna;Escócia;Copenhagen;Defesa;1.89;82.0;72;16
+240;Anthony Ralston;Escócia;Celtic;Defesa;1.78;72.0;71;2
+241;John Souttar;Escócia;Rangers;Defesa;1.88;80.0;73;19
+242;Scott McTominay;Escócia;Man Utd;Médio;1.93;88.0;82;4
+243;Callum McGregor;Escócia;Celtic;Médio;1.78;68.0;78;8
+244;Billy Gilmour;Escócia;Brighton;Médio;1.70;60.0;77;14
+245;John McGinn;Escócia;Aston Villa;Médio;1.78;75.0;80;7
+246;Kenny McLean;Escócia;Norwich;Médio;1.83;78.0;74;23
+247;Ryan Christie;Escócia;Bournemouth;Médio;1.78;70.0;76;11
+248;Stuart Armstrong;Escócia;Southampton;Médio;1.83;74.0;75;17
+249;Ché Adams;Escócia;Southampton;Avançado;1.75;75.0;76;10
+250;Lyndon Dykes;Escócia;QPR;Avançado;1.88;82.0;73;9
+251;Lawrence Shankland;Escócia;Hearts;Avançado;1.83;78.0;74;24
+252;James Forrest;Escócia;Celtic;Avançado;1.73;68.0;72;25
+253;Ryan Jack;Escócia;Rangers;Médio;1.83;75.0;71;20
+254;Alexandre Pierre;Haiti;Strasbourg;Guarda-Redes;1.88;80.0;65;1
+255;Johny Placide;Haiti;Bastia;Guarda-Redes;1.82;78.0;64;23
+256;Josué Duverger;Haiti;Santarém;Guarda-Redes;1.89;82.0;60;12
+257;Carlens Arcus;Haiti;Vitesse;Defesa;1.82;75.0;68;2
+258;Ricardo Adé;Haiti;LDU Quito;Defesa;1.86;80.0;69;4
+259;Garven Métusala;Haiti;Forge FC;Defesa;1.90;82.0;66;6
+260;Alex Christian;Haiti;Tegevajaro;Defesa;1.75;70.0;65;22
+261;Steven Séance;Haiti;Sedan;Defesa;1.85;78.0;64;13
+262;Djimy-Bend Alexis;Haiti;Hapoel Petah Tikva;Defesa;1.84;76.0;63;16
+263;Bryan Alceus;Haiti;Doxa Katokopias;Médio;1.78;70.0;66;5
+264;Danley Jean Jacques;Haiti;Metz;Médio;1.80;75.0;68;17
+265;Leverton Pierre;Haiti;USL Dunkerque;Médio;1.76;70.0;65;14
+266;Carl Fred Sainté;Haiti;North Texas SC;Médio;1.77;69.0;64;15
+267;Simonsen Jeppe;Haiti;SønderjyskE;Médio;1.79;70.0;63;11
+268;Mondy Prunier;Haiti;Versailles;Médio;1.75;68.0;62;20
+269;Frantzdy Pierrot;Haiti;Maccabi Haifa;Avançado;1.94;85.0;72;9
+270;Duckens Nazon;Haiti;Kayserispor;Avançado;1.78;75.0;70;19
+271;Derrick Etienne;Haiti;Atlanta United;Avançado;1.75;68.0;69;7
+272;Carnejy Antoine;Haiti;Hapoel Haifa;Avançado;1.83;78.0;67;18
+273;Fabrice Picault;Haiti;Vancouver Whitecaps;Avançado;1.75;70.0;68;10
+274;Ronaldo Damus;Haiti;GIF Sundsvall;Avançado;1.76;72.0;65;21
+275;Christopher Attys;Haiti;Triestina;Médio;1.84;76.0;64;8
+276;Wilde-Donald Guerrier;Haiti;Zeljeznicar;Defesa;1.78;73.0;63;3
+277;Matt Turner;Estados Unidos;Nottingham Forest;Guarda-Redes;1.91;79.0;77;1
+278;Ethan Horvath;Estados Unidos;Cardiff City;Guarda-Redes;1.91;82.0;73;18
+279;Drake Callender;Estados Unidos;Inter Miami;Guarda-Redes;1.88;81.0;72;22
+280;Sergiño Dest;Estados Unidos;PSV;Defesa;1.75;68.0;78;2
+281;Antonee Robinson;Estados Unidos;Fulham;Defesa;1.83;72.0;78;5
+282;Chris Richards;Estados Unidos;Crystal Palace;Defesa;1.88;80.0;76;3
+283;Tim Ream;Estados Unidos;Fulham;Defesa;1.86;78.0;75;13
+284;Cameron Carter-Vickers;Estados Unidos;Celtic;Defesa;1.83;84.0;76;20
+285;Joe Scally;Estados Unidos;Borussia M'gladbach;Defesa;1.84;75.0;74;19
+286;Miles Robinson;Estados Unidos;FC Cincinnati;Defesa;1.88;81.0;74;12
+287;Weston McKennie;Estados Unidos;Juventus;Médio;1.85;84.0;80;8
+288;Tyler Adams;Estados Unidos;Bournemouth;Médio;1.75;72.0;78;4
+289;Yunus Musah;Estados Unidos;Milan;Médio;1.78;71.0;77;6
+290;Giovanni Reyna;Estados Unidos;Nottingham Forest;Médio;1.85;79.0;78;7
+291;Luca de la Torre;Estados Unidos;Celta Vigo;Médio;1.78;68.0;74;14
+292;Johnny Cardoso;Estados Unidos;Real Betis;Médio;1.85;78.0;75;15
+293;Malik Tillman;Estados Unidos;PSV;Médio;1.87;77.0;74;17
+294;Christian Pulisic;Estados Unidos;Milan;Avançado;1.77;70.0;82;10
+295;Timothy Weah;Estados Unidos;Juventus;Avançado;1.83;77.0;77;21
+296;Folarin Balogun;Estados Unidos;Monaco;Avançado;1.78;68.0;78;20
+297;Ricardo Pepi;Estados Unidos;PSV;Avançado;1.85;74.0;76;9
+298;Josh Sargent;Estados Unidos;Norwich;Avançado;1.85;79.0;74;23
+299;Haji Wright;Estados Unidos;Coventry City;Avançado;1.93;88.0;75;11
+300;Uğurcan Çakır;Turquia;Trabzonspor;Guarda-Redes;1.91;78.0;79;1
+301;Mert Günok;Turquia;Beşiktaş;Guarda-Redes;1.96;92.0;77;12
+302;Altay Bayındır;Turquia;Man Utd;Guarda-Redes;1.98;88.0;76;23
+303;Zeki Çelik;Turquia;Roma;Defesa;1.80;78.0;77;2
+304;Merih Demiral;Turquia;Al-Ahli;Defesa;1.90;86.0;79;3
+305;Çağlar Söyüncü;Turquia;Fenerbahçe;Defesa;1.85;82.0;79;4
+306;Ozan Kabak;Turquia;Hoffenheim;Defesa;1.86;86.0;77;15
+307;Ferdi Kadıoğlu;Turquia;Fenerbahçe;Defesa;1.74;68.0;78;20
+308;Kaan Ayhan;Turquia;Galatasaray;Defesa;1.85;80.0;76;22
+309;Mert Müldür;Turquia;Fenerbahçe;Defesa;1.84;74.0;75;13
+310;Hakan Çalhanoğlu;Turquia;Inter;Médio;1.78;76.0;85;10
+311;Orkun Kökçü;Turquia;Benfica;Médio;1.75;70.0;81;6
+312;Salih Özcan;Turquia;Dortmund;Médio;1.82;74.0;78;8
+313;İsmail Yüksek;Turquia;Fenerbahçe;Médio;1.83;75.0;76;16
+314;Arda Güler;Turquia;Real Madrid;Médio;1.76;67.0;77;11
+315;Salih Uçan;Turquia;Beşiktaş;Médio;1.81;76.0;75;21
+316;Cengiz Ünder;Turquia;Fenerbahçe;Avançado;1.73;66.0;78;7
+317;Kerem Aktürkoğlu;Turquia;Galatasaray;Avançado;1.73;68.0;77;17
+318;Enes Ünal;Turquia;Bournemouth;Avançado;1.87;78.0;78;9
+319;Barış Alper Yılmaz;Turquia;Galatasaray;Avançado;1.86;80.0;75;19
+320;Kenan Yıldız;Turquia;Juventus;Avançado;1.85;74.0;75;18
+321;İrfan Can Kahveci;Turquia;Fenerbahçe;Avançado;1.76;71.0;78;14
+322;Cenk Tosun;Turquia;Beşiktaş;Avançado;1.83;78.0;74;24
+323;Carlos Coronel;Paraguai;NY Red Bulls;Guarda-Redes;1.92;82.0;74;1
+324;Antony Silva;Paraguai;Nacional;Guarda-Redes;1.90;84.0;72;12
+325;Santiago Rojas;Paraguai;Atlético Nacional;Guarda-Redes;1.88;80.0;71;22
+326;Gustavo Gómez;Paraguai;Palmeiras;Defesa;1.85;85.0;81;15
+327;Junior Alonso;Paraguai;Krasnodar;Defesa;1.85;80.0;76;6
+328;Fabián Balbuena;Paraguai;Dínamo Moscovo;Defesa;1.88;82.0;76;4
+329;Omar Alderete;Paraguai;Getafe;Defesa;1.88;80.0;77;3
+330;Robert Rojas;Paraguai;Vasco da Gama;Defesa;1.77;73.0;75;2
+331;Santiago Arzamendia;Paraguai;Cerro Porteño;Defesa;1.72;68.0;73;21
+332;Iván Ramírez;Paraguai;Libertad;Defesa;1.75;70.0;71;13
+333;Miguel Almirón;Paraguai;Newcastle;Médio;1.74;70.0;81;10
+334;Mathías Villasanti;Paraguai;Grêmio;Médio;1.78;73.0;77;23
+335;Richard Sánchez;Paraguai;América;Médio;1.75;70.0;76;20
+336;Andrés Cubas;Paraguai;Vancouver Whitecaps;Médio;1.66;64.0;75;14
+337;Matías Rojas;Paraguai;Inter Miami;Médio;1.86;78.0;76;8
+338;Diego Gómez;Paraguai;Inter Miami;Médio;1.83;75.0;73;16
+339;Kaku;Paraguai;Al-Ain;Médio;1.71;68.0;75;17
+340;Julio Enciso;Paraguai;Brighton;Avançado;1.73;64.0;77;19
+341;Antonio Sanabria;Paraguai;Torino;Avançado;1.81;76.0;76;9
+342;Adam Bareiro;Paraguai;San Lorenzo;Avançado;1.74;73.0;74;18
+343;Ramón Sosa;Paraguai;Talleres;Avançado;1.78;74.0;75;24
+344;Gabriel Ávalos;Paraguai;Independiente;Avançado;1.90;86.0;74;7
+345;Alejandro Romero;Paraguai;Al-Ain;Avançado;1.71;68.0;74;11
+346;Mathew Ryan;Austrália;AZ Alkmaar;Guarda-Redes;1.84;82.0;77;1
+347;Joe Gauci;Austrália;Aston Villa;Guarda-Redes;1.94;85.0;71;12
+348;Andrew Redmayne;Austrália;Sydney FC;Guarda-Redes;1.94;88.0;70;18
+349;Harry Souttar;Austrália;Leicester City;Defesa;1.98;88.0;76;19
+350;Kye Rowles;Austrália;Hearts;Defesa;1.85;78.0;72;4
+351;Aziz Behich;Austrália;Al-Nassr;Defesa;1.70;68.0;73;16
+352;Nathaniel Atkinson;Austrália;Hearts;Defesa;1.81;75.0;71;3
+353;Gethin Jones;Austrália;Bolton;Defesa;1.85;78.0;70;2
+354;Cameron Burgess;Austrália;Ipswich Town;Defesa;1.94;86.0;72;21
+355;Jordan Bos;Austrália;Westerlo;Defesa;1.80;74.0;71;5
+356;Jackson Irvine;Austrália;St. Pauli;Médio;1.89;80.0;75;22
+357;Connor Metcalfe;Austrália;St. Pauli;Médio;1.83;76.0;72;8
+358;Riley McGree;Austrália;Middlesbrough;Médio;1.78;70.0;74;14
+359;Keanu Baccus;Austrália;St Mirren;Médio;1.78;72.0;71;17
+360;Craig Goodwin;Austrália;Al-Wehda;Médio;1.80;73.0;75;23
+361;Aiden O'Neill;Austrália;Standard Liège;Médio;1.81;75.0;70;13
+362;Mitchell Duke;Austrália;Machida Zelvia;Avançado;1.86;84.0;72;15
+363;Martin Boyle;Austrália;Hibernian;Avançado;1.72;68.0;73;6
+364;Kusini Yengi;Austrália;Portsmouth;Avançado;1.90;82.0;69;9
+365;Samuel Silvera;Austrália;Middlesbrough;Avançado;1.76;70.0;70;11
+366;Bruno Fornaroli;Austrália;Melbourne Victory;Avançado;1.74;72.0;71;20
+367;John Iredale;Austrália;Wehen Wiesbaden;Avançado;1.88;80.0;67;24
+368;Marco Tilio;Austrália;Melbourne City;Avançado;1.70;64.0;71;10
+369;Manuel Neuer;Alemanha;Bayern Munique;Guarda-Redes;1.93;83.0;86;1
+370;Marc-André ter Stegen;Alemanha;Barcelona;Guarda-Redes;1.87;85.0;88;22
+371;Kevin Trapp;Alemanha;Eintracht Frankfurt;Guarda-Redes;1.89;83.0;82;12
+372;Antonio Rüdiger;Alemanha;Real Madrid;Defesa;1.90;85.0;86;2
+373;Nico Schlotterbeck;Alemanha;Dortmund;Defesa;1.91;86.0;82;4
+374;Jonathan Tah;Alemanha;Bayer Leverkusen;Defesa;1.95;94.0;83;5
+375;Robin Gosens;Alemanha;Union Berlin;Defesa;1.83;76.0;79;3
+376;Joshua Kimmich;Alemanha;Bayern Munique;Defesa;1.77;75.0;87;6
+377;Benjamin Henrichs;Alemanha;RB Leipzig;Defesa;1.83;79.0;78;15
+378;David Raum;Alemanha;RB Leipzig;Defesa;1.80;75.0;80;20
+379;İlkay Gündoğan;Alemanha;Barcelona;Médio;1.80;80.0;85;21
+380;Toni Kroos;Alemanha;Real Madrid;Médio;1.83;76.0;86;8
+381;Leon Goretzka;Alemanha;Bayern Munique;Médio;1.89;82.0;84;18
+382;Jamal Musiala;Alemanha;Bayern Munique;Médio;1.84;74.0;86;10
+383;Florian Wirtz;Alemanha;Bayer Leverkusen;Médio;1.76;72.0;85;17
+384;Pascal Groß;Alemanha;Brighton;Médio;1.81;78.0;80;16
+385;Emre Can;Alemanha;Dortmund;Médio;1.86;86.0;81;23
+386;Leroy Sané;Alemanha;Bayern Munique;Avançado;1.83;80.0;84;19
+387;Serge Gnabry;Alemanha;Bayern Munique;Avançado;1.76;77.0;83;11
+388;Kai Havertz;Alemanha;Arsenal;Avançado;1.93;83.0;83;7
+389;Niclas Füllkrug;Alemanha;Dortmund;Avançado;1.89;83.0;81;9
+390;Thomas Müller;Alemanha;Bayern Munique;Avançado;1.85;76.0;83;13
+391;Maximilian Beier;Alemanha;Hoffenheim;Avançado;1.85;70.0;77;14
+392;Yahia Fofana;Costa do Marfim;Angers;Guarda-Redes;1.94;88.0;74;1
+393;Badra Ali Sangaré;Costa do Marfim;Sekhukhune Utd;Guarda-Redes;1.81;78.0;68;23
+394;Charles Folly;Costa do Marfim;ASEC Mimosas;Guarda-Redes;1.85;80.0;65;16
+395;Evan Ndicka;Costa do Marfim;Roma;Defesa;1.92;82.0;80;21
+396;Ousmane Diomande;Costa do Marfim;Sporting CP;Defesa;1.90;86.0;78;2
+397;Odilon Kossounou;Costa do Marfim;Bayer Leverkusen;Defesa;1.91;79.0;79;7
+398;Willy Boly;Costa do Marfim;Nottingham Forest;Defesa;1.95;92.0;76;12
+399;Ghislain Konan;Costa do Marfim;Al-Fayha;Defesa;1.76;73.0;75;3
+400;Serge Aurier;Costa do Marfim;Galatasaray;Defesa;1.76;76.0;76;17
+401;Wilfried Singo;Costa do Marfim;Monaco;Defesa;1.90;79.0;78;5
+402;Franck Kessié;Costa do Marfim;Al-Ahli;Médio;1.83;80.0;82;8
+403;Seko Fofana;Costa do Marfim;Al-Ettifaq;Médio;1.85;74.0;81;6
+404;Ibrahim Sangaré;Costa do Marfim;Nottingham Forest;Médio;1.91;86.0;80;18
+405;Jean Michaël Seri;Costa do Marfim;Hull City;Médio;1.68;69.0;74;4
+406;Oumar Diakité;Costa do Marfim;Reims;Médio;1.73;68.0;74;14
+407;Idrissa Doumbia;Costa do Marfim;Al-Ahli SC;Médio;1.87;80.0;72;13
+408;Sébastien Haller;Costa do Marfim;Dortmund;Avançado;1.90;82.0;80;22
+409;Nicolas Pépé;Costa do Marfim;Trabzonspor;Avançado;1.83;73.0;77;19
+410;Wilfried Zaha;Costa do Marfim;Galatasaray;Avançado;1.80;67.0;80;9
+411;Simon Adingra;Costa do Marfim;Brighton;Avançado;1.75;68.0;76;24
+412;Max Gradel;Costa do Marfim;Gaziantep;Avançado;1.75;70.0;74;15
+413;Jonathan Bamba;Costa do Marfim;Celta Vigo;Avançado;1.75;68.0;76;10
+414;Christian Kouamé;Costa do Marfim;Fiorentina;Avançado;1.85;73.0;75;11
+415;Hernán Galíndez;Equador;Huracán;Guarda-Redes;1.89;82.0;74;1
+416;Alexander Domínguez;Equador;LDU Quito;Guarda-Redes;1.95;85.0;73;22
+417;Moisés Ramírez;Equador;Independiente del Valle;Guarda-Redes;1.85;79.0;71;12
+418;Piero Hincapié;Equador;Bayer Leverkusen;Defesa;1.84;76.0;80;3
+419;Félix Torres;Equador;Corinthians;Defesa;1.87;80.0;75;2
+420;Willian Pacho;Equador;Eintracht Frankfurt;Defesa;1.87;81.0;76;6
+421;Robert Arboleda;Equador;São Paulo;Defesa;1.87;77.0;75;4
+422;Pervis Estupiñán;Equador;Brighton;Defesa;1.75;73.0;80;7
+423;Angelo Preciado;Equador;Sparta Praga;Defesa;1.74;70.0;74;17
+424;José Hurtado;Equador;RB Bragantino;Defesa;1.75;68.0;72;14
+425;Moisés Caicedo;Equador;Chelsea;Médio;1.78;73.0;82;23
+426;Carlos Gruezo;Equador;San Jose Earthquakes;Médio;1.71;68.0;74;8
+427;Alan Franco;Equador;Atlético Mineiro;Médio;1.75;70.0;73;21
+428;Kendry Páez;Equador;Independiente del Valle;Médio;1.77;68.0;72;10
+429;José Cifuentes;Equador;Cruzeiro;Médio;1.76;71.0;74;5
+430;Jeremy Sarmiento;Equador;Ipswich Town;Médio;1.78;70.0;72;16
+431;Gonzalo Plata;Equador;Al-Sadd;Avançado;1.78;68.0;75;19
+432;Ángel Mena;Equador;León;Avançado;1.68;66.0;74;15
+433;Enner Valencia;Equador;Internacional;Avançado;1.77;74.0;78;13
+434;Kevin Rodríguez;Equador;Royale Union SG;Avançado;1.90;82.0;72;11
+435;Jordy Caicedo;Equador;Atlas;Avançado;1.85;84.0;72;20
+436;Jhojan Julio;Equador;LDU Quito;Avançado;1.78;72.0;70;9
+437;Julio Ortiz;Equador;Independiente del Valle;Médio;1.80;75.0;70;18
+438;Eloy Room;Curaçau;Vitesse;Guarda-Redes;1.90;82.0;72;1
+439;Trevor Doornbusch;Curaçau;Dordrecht;Guarda-Redes;1.92;85.0;65;23
+440;Tyrick Bodak;Curaçau;Jong PSV;Guarda-Redes;1.88;80.0;63;22
+441;Cuco Martina;Curaçau;NAC Breda;Defesa;1.85;80.0;68;2
+442;Juriën Gaari;Curaçau;RKC Waalwijk;Defesa;1.83;78.0;67;3
+443;Nathan Markelo;Curaçau;Fortuna Sittard;Defesa;1.76;70.0;65;4
+444;Sherel Floranus;Curaçau;PEC Zwolle;Defesa;1.78;72.0;67;5
+445;Bradley Martis;Curaçau;IJsselmeervogels;Defesa;1.80;74.0;62;12
+446;Justin Ogenia;Curaçau;FC Eindhoven;Defesa;1.75;68.0;64;13
+447;Roshon van Eijma;Curaçau;TOP Oss;Defesa;1.86;80.0;63;15
+448;Leandro Bacuna;Curaçau;Groningen;Médio;1.87;82.0;71;10
+449;Juninho Bacuna;Curaçau;Birmingham City;Médio;1.78;73.0;72;7
+450;Vurnon Anita;Curaçau;Al-Orobah;Médio;1.68;65.0;69;8
+451;Kevin Felida;Curaçau;RKC Waalwijk;Médio;1.70;66.0;66;6
+452;Brandley Kuwas;Curaçau;Volendam;Médio;1.78;76.0;68;17
+453;Godfried Roemeratoe;Curaçau;RKC Waalwijk;Médio;1.80;74.0;67;18
+454;Jearl Margaritha;Curaçau;TOP Oss;Médio;1.74;68.0;64;19
+455;Kenji Gorré;Curaçau;Umm Salal;Avançado;1.78;71.0;68;11
+456;Janga Rangelo;Curaçau;Nea Salamis;Avançado;1.95;88.0;68;9
+457;Gervane Kastaneer;Curaçau;PEC Zwolle;Avançado;1.85;82.0;66;14
+458;Jeremy Antonisse;Curaçau;Moreirense;Avançado;1.80;75.0;67;20
+459;Jürgen Locadia;Curaçau;Amorebieta;Avançado;1.86;85.0;69;21
+460;Richairo Živković;Curaçau;Lion City Sailors;Avançado;1.87;80.0;68;16
+461;Bart Verbruggen;Países Baixos;Brighton;Guarda-Redes;1.94;88.0;79;1
+462;Mark Flekken;Países Baixos;Brentford;Guarda-Redes;1.85;84.0;78;13
+463;Justin Bijlow;Países Baixos;Feyenoord;Guarda-Redes;1.88;83.0;79;23
+464;Virgil van Dijk;Países Baixos;Liverpool;Defesa;1.95;92.0;88;4
+465;Nathan Aké;Países Baixos;Manchester City;Defesa;1.80;75.0;84;5
+466;Matthijs de Ligt;Países Baixos;Bayern Munique;Defesa;1.89;89.0;85;3
+467;Stefan de Vrij;Países Baixos;Inter;Defesa;1.89;78.0;82;6
+468;Micky van de Ven;Países Baixos;Tottenham;Defesa;1.93;81.0;82;15
+469;Denzel Dumfries;Países Baixos;Inter;Defesa;1.88;80.0;83;22
+470;Jeremie Frimpong;Países Baixos;Bayer Leverkusen;Defesa;1.71;63.0;84;12
+471;Daley Blind;Países Baixos;Girona;Defesa;1.80;72.0;79;17
+472;Frenkie de Jong;Países Baixos;Barcelona;Médio;1.81;74.0;86;21
+473;Teun Koopmeiners;Países Baixos;Atalanta;Médio;1.84;77.0;83;20
+474;Tijjani Reijnders;Países Baixos;Milan;Médio;1.85;73.0;80;14
+475;Joey Veerman;Países Baixos;PSV;Médio;1.85;75.0;79;16
+476;Jerdy Schouten;Países Baixos;PSV;Médio;1.85;74.0;78;24
+477;Xavi Simons;Países Baixos;RB Leipzig;Médio;1.79;68.0;83;7
+478;Georginio Wijnaldum;Países Baixos;Al-Ettifaq;Médio;1.75;74.0;79;8
+479;Cody Gakpo;Países Baixos;Liverpool;Avançado;1.93;76.0;83;11
+480;Memphis Depay;Países Baixos;Atlético Madrid;Avançado;1.76;78.0;83;10
+481;Donyell Malen;Países Baixos;Dortmund;Avançado;1.78;73.0;82;18
+482;Steven Bergwijn;Países Baixos;Ajax;Avançado;1.78;78.0;79;25
+483;Wout Weghorst;Países Baixos;Hoffenheim;Avançado;1.97;84.0;78;9
+484;Zion Suzuki;Japão;Sint-Truiden;Guarda-Redes;1.90;85.0;72;1
+485;Daiya Maekawa;Japão;Vissel Kobe;Guarda-Redes;1.91;86.0;70;12
+486;Taishi Brandon Nozawa;Japão;FC Tokyo;Guarda-Redes;1.93;83.0;68;23
+487;Takehiro Tomiyasu;Japão;Arsenal;Defesa;1.88;78.0;80;16
+488;Ko Itakura;Japão;Borussia M'gladbach;Defesa;1.88;75.0;78;4
+489;Hiroki Ito;Japão;Stuttgart;Defesa;1.88;78.0;76;21
+490;Shogo Taniguchi;Japão;Al-Rayyan;Defesa;1.83;75.0;74;3
+491;Yukinari Sugawara;Japão;AZ Alkmaar;Defesa;1.79;69.0;77;2
+492;Koki Machida;Japão;Royale Union SG;Defesa;1.90;80.0;74;15
+493;Seiya Maikuma;Japão;Cerezo Osaka;Defesa;1.76;69.0;72;19
+494;Tsuyoshi Watanabe;Japão;Gent;Defesa;1.86;78.0;73;24
+495;Wataru Endo;Japão;Liverpool;Médio;1.78;76.0;80;6
+496;Hidemasa Morita;Japão;Sporting CP;Médio;1.77;74.0;79;5
+497;Ao Tanaka;Japão;Fortuna Düsseldorf;Médio;1.80;74.0;74;17
+498;Daichi Kamada;Japão;Lazio;Médio;1.80;72.0;79;8
+499;Reo Hatate;Japão;Celtic;Médio;1.71;68.0;76;20
+500;Takumi Minamino;Japão;Monaco;Médio;1.74;68.0;78;10
+501;Takefusa Kubo;Japão;Real Sociedad;Médio;1.73;67.0;81;11
+502;Kaoru Mitoma;Japão;Brighton;Avançado;1.78;71.0;81;7
+503;Junya Ito;Japão;Reims;Avançado;1.76;66.0;79;14
+504;Ayase Ueda;Japão;Feyenoord;Avançado;1.82;76.0;76;9
+505;Takuma Asano;Japão;Bochum;Avançado;1.73;71.0;74;18
+506;Daizen Maeda;Japão;Celtic;Avançado;1.73;67.0;75;25
+507;Robin Olsen;Suécia;Aston Villa;Guarda-Redes;1.96;89.0;76;1
+508;Viktor Johansson;Suécia;Rotherham Utd;Guarda-Redes;1.86;82.0;73;12
+509;Kristoffer Nordfeldt;Suécia;AIK;Guarda-Redes;1.90;85.0;71;23
+510;Victor Lindelöf;Suécia;Man Utd;Defesa;1.87;80.0;79;3
+511;Isak Hien;Suécia;Atalanta;Defesa;1.91;86.0;77;4
+512;Carl Starfelt;Suécia;Celta Vigo;Defesa;1.85;80.0;76;5
+513;Ludwig Augustinsson;Suécia;Anderlecht;Defesa;1.81;76.0;74;6
+514;Emil Holm;Suécia;Atalanta;Defesa;1.91;83.0;75;2
+515;Linus Wahlqvist;Suécia;Pogoń Szczecin;Defesa;1.84;80.0;72;14
+516;Hjalmar Ekdal;Suécia;Burnley;Defesa;1.88;78.0;73;15
+517;Gabriel Gudmundsson;Suécia;Lille;Defesa;1.81;74.0;73;25
+518;Mattias Svanberg;Suécia;Wolfsburg;Médio;1.85;78.0;77;19
+519;Jens Cajuste;Suécia;Napoli;Médio;1.88;77.0;76;18
+520;Hugo Larsson;Suécia;Eintracht Frankfurt;Médio;1.87;75.0;76;16
+521;Samuel Gustafson;Suécia;Urawa Red Diamonds;Médio;1.87;79.0;72;8
+522;Emil Forsberg;Suécia;NY Red Bulls;Médio;1.79;78.0;78;10
+523;Anton Salétros;Suécia;AIK;Médio;1.85;78.0;71;20
+524;Jesper Karlström;Suécia;Lech Poznań;Médio;1.82;80.0;72;13
+525;Dejan Kulusevski;Suécia;Tottenham;Avançado;1.86;80.0;81;21
+526;Alexander Isak;Suécia;Newcastle;Avançado;1.92;77.0;83;9
+527;Viktor Gyökeres;Suécia;Sporting CP;Avançado;1.87;86.0;83;17
+528;Anthony Elanga;Suécia;Nottingham Forest;Avançado;1.78;71.0;76;11
+529;Jesper Karlsson;Suécia;Bologna;Avançado;1.71;70.0;75;22
+530;Aymen Dahmen;Tunísia;Al-Hazem;Guarda-Redes;1.88;84.0;73;16
+531;Bechir Ben Said;Tunísia;US Monastir;Guarda-Redes;1.90;82.0;72;22
+532;Mouez Hassen;Tunísia;Club Africain;Guarda-Redes;1.86;76.0;70;1
+533;Montassar Talbi;Tunísia;Lorient;Defesa;1.90;81.0;77;3
+534;Yassine Meriah;Tunísia;Espérance;Defesa;1.90;83.0;74;4
+535;Ali Abdi;Tunísia;Caen;Defesa;1.83;75.0;73;2
+536;Wajdi Kechrida;Tunísia;Atromitos;Defesa;1.84;74.0;72;21
+537;Yan Valery;Tunísia;Angers;Defesa;1.80;76.0;71;20
+538;Oussama Haddadi;Tunísia;Greuther Fürth;Defesa;1.89;80.0;70;5
+539;Ghaith Zaalouni;Tunísia;Club Africain;Defesa;1.76;70.0;68;13
+540;Hamza Jelassi;Tunísia;Étoile du Sahel;Defesa;1.87;80.0;69;15
+541;Ellyes Skhiri;Tunísia;Eintracht Frankfurt;Médio;1.85;74.0;79;17
+542;Aïssa Laïdouni;Tunísia;Union Berlin;Médio;1.83;80.0;76;14
+543;Mohamed Ali Ben Romdhane;Tunísia;Ferencváros;Médio;1.85;78.0;74;10
+544;Anis Ben Slimane;Tunísia;Sheffield Utd;Médio;1.88;82.0;73;8
+545;Hamza Rafia;Tunísia;Lecce;Médio;1.78;72.0;72;25
+546;Houssem Tka;Tunísia;Espérance;Médio;1.76;70.0;70;6
+547;Nader Ghandri;Tunísia;Akhmat Grozny;Médio;1.94;86.0;71;24
+548;Youssef Msakni;Tunísia;Al-Arabi;Avançado;1.79;73.0;75;7
+549;Elias Achouri;Tunísia;Copenhagen;Avançado;1.77;69.0;74;26
+550;Seifeddine Jaziri;Tunísia;Zamalek;Avançado;1.80;76.0;72;11
+551;Haythem Jouini;Tunísia;Stade Tunisien;Avançado;1.90;82.0;70;9
+552;Sayfallah Ltaief;Tunísia;Winterthur;Avançado;1.77;71.0;69;18
+553;Koen Casteels;Bélgica;Wolfsburg;Guarda-Redes;1.97;86.0;83;1
+554;Matz Sels;Bélgica;Nottingham Forest;Guarda-Redes;1.88;80.0;78;12
+555;Thomas Kaminski;Bélgica;Luton Town;Guarda-Redes;1.90;82.0;76;13
+556;Jan Vertonghen;Bélgica;Anderlecht;Defesa;1.89;86.0;81;5
+557;Wout Faes;Bélgica;Leicester City;Defesa;1.87;84.0;79;4
+558;Arthur Theate;Bélgica;Rennes;Defesa;1.85;80.0;78;3
+559;Timothy Castagne;Bélgica;Fulham;Defesa;1.85;80.0;79;21
+560;Thomas Meunier;Bélgica;Trabzonspor;Defesa;1.90;90.0;77;15
+561;Zeno Debast;Bélgica;Anderlecht;Defesa;1.91;78.0;76;2
+562;Maxim De Cuyper;Bélgica;Club Brugge;Defesa;1.85;75.0;75;25
+563;Kevin De Bruyne;Bélgica;Manchester City;Médio;1.81;70.0;91;7
+564;Amadou Onana;Bélgica;Everton;Médio;1.95;76.0;80;24
+565;Orel Mangala;Bélgica;Lyon;Médio;1.78;80.0;78;18
+566;Youri Tielemans;Bélgica;Aston Villa;Médio;1.76;72.0;81;8
+567;Arthur Vermeeren;Bélgica;Atlético Madrid;Médio;1.76;71.0;77;23
+568;Aster Vranckx;Bélgica;Wolfsburg;Médio;1.83;78.0;75;16
+569;Romelu Lukaku;Bélgica;Roma;Avançado;1.91;103.0;84;10
+570;Jérémy Doku;Bélgica;Manchester City;Avançado;1.71;65.0;82;22
+571;Leandro Trossard;Bélgica;Arsenal;Avançado;1.72;61.0;81;9
+572;Johan Bakayoko;Bélgica;PSV;Avançado;1.79;70.0;80;19
+573;Loïs Openda;Bélgica;RB Leipzig;Avançado;1.77;75.0;82;20
+574;Dodi Lukebakio;Bélgica;Sevilla;Avançado;1.87;77.0;78;11
+575;Yannick Carrasco;Bélgica;Al-Shabab;Avançado;1.81;73.0;80;14
+576;Mohamed El Shenawy;Egito;Al Ahly;Guarda-Redes;1.91;86.0;77;1
+577;Gabaski;Egito;National Bank;Guarda-Redes;1.91;88.0;74;16
+578;Mohamed Sobhy;Egito;Zamalek;Guarda-Redes;1.85;80.0;71;23
+579;Mohamed Abdelmonem;Egito;Al Ahly;Defesa;1.83;78.0;76;2
+580;Ahmed Hegazi;Egito;Al-Ittihad;Defesa;1.93;89.0;75;6
+581;Ali Gabr;Egito;Pyramids;Defesa;1.94;88.0;73;5
+582;Mohamed Hany;Egito;Al Ahly;Defesa;1.78;74.0;72;3
+583;Omar Kamal;Egito;Al Ahly;Defesa;1.76;72.0;73;4
+584;Ahmed Fatouh;Egito;Zamalek;Defesa;1.76;71.0;74;13
+585;Yasser Ibrahim;Egito;Al Ahly;Defesa;1.86;82.0;72;15
+586;Mohamed Elneny;Egito;Arsenal;Médio;1.80;74.0;76;17
+587;Marwan Attia;Egito;Al Ahly;Médio;1.78;73.0;74;14
+588;Emam Ashour;Egito;Al Ahly;Médio;1.80;76.0;75;8
+589;Hamdi Fathi;Egito;Al-Wakrah;Médio;1.80;77.0;74;5
+590;Zizo;Egito;Zamalek;Médio;1.74;70.0;77;21
+591;Mahmoud Hamada;Egito;Al Masry;Médio;1.78;73.0;71;20
+592;Mohanad Lasheen;Egito;Pyramids;Médio;1.80;74.0;70;22
+593;Mohamed Salah;Egito;Liverpool;Avançado;1.75;71.0;89;10
+594;Omar Marmoush;Egito;Eintracht Frankfurt;Avançado;1.83;81.0;78;22
+595;Trezeguet;Egito;Trabzonspor;Avançado;1.79;73.0;77;7
+596;Mostafa Mohamed;Egito;Nantes;Avançado;1.85;80.0;78;11
+597;Kahraba;Egito;Al Ahly;Avançado;1.82;76.0;73;18
+598;Ahmed Hassan Kouka;Egito;Alanyaspor;Avançado;1.91;84.0;74;9
+599;Alireza Beiranvand;Irão;Persepolis;Guarda-Redes;1.94;85.0;76;1
+600;Payam Niazmand;Irão;Sepahan;Guarda-Redes;1.93;83.0;73;12
+601;Hossein Hosseini;Irão;Esteghlal;Guarda-Redes;1.89;82.0;72;22
+602;Ehsan Hajsafi;Irão;AEK Atenas;Defesa;1.76;73.0;75;3
+603;Milad Mohammadi;Irão;Adana Demirspor;Defesa;1.78;74.0;74;5
+604;Shojae Khalilzadeh;Irão;Tractor;Defesa;1.82;78.0;73;4
+605;Hossein Kanaanizadegan;Irão;Persepolis;Defesa;1.88;82.0;74;13
+606;Sadegh Moharrami;Irão;Dinamo Zagreb;Defesa;1.74;70.0;73;2
+607;Ramin Rezaeian;Irão;Sepahan;Defesa;1.71;72.0;75;23
+608;Majid Hosseini;Irão;Kayserispor;Defesa;1.83;78.0;74;19
+609;Saeid Ezatolahi;Irão;Shabab Al-Ahli;Médio;1.90;82.0;75;6
+610;Saman Ghoddos;Irão;Brentford;Médio;1.77;74.0;75;14
+611;Omid Ebrahimi;Irão;Al-Shamal;Médio;1.78;76.0;72;9
+612;Rouzbeh Cheshmi;Irão;Esteghlal;Médio;1.92;85.0;71;15
+613;Ali Gholizadeh;Irão;Lech Poznań;Médio;1.76;71.0;74;17
+614;Mehdi Torabi;Irão;Persepolis;Médio;1.85;78.0;73;16
+615;Mohammad Mohebi;Irão;Rostov;Médio;1.88;82.0;74;21
+616;Mehdi Taremi;Irão;Porto;Avançado;1.87;82.0;82;9
+617;Sardar Azmoun;Irão;Roma;Avançado;1.86;80.0;80;20
+618;Alireza Jahanbakhsh;Irão;Feyenoord;Avançado;1.80;78.0;76;7
+619;Karim Ansarifard;Irão;Aris;Avançado;1.87;81.0;73;10
+620;Shahriyar Moghanlou;Irão;Sepahan;Avançado;1.93;85.0;72;11
+621;Reza Asadi;Irão;Sepahan;Avançado;1.90;82.0;71;24
+622;Max Crocombe;Nova Zelândia;Burton Albion;Guarda-Redes;1.94;86.0;68;1
+623;Oli Sail;Nova Zelândia;Perth Glory;Guarda-Redes;1.95;87.0;67;12
+624;Alex Paulsen;Nova Zelândia;Wellington Phoenix;Guarda-Redes;1.87;80.0;66;22
+625;Liberato Cacace;Nova Zelândia;Empoli;Defesa;1.75;72.0;73;13
+626;Michael Boxall;Nova Zelândia;Minnesota United;Defesa;1.88;86.0;70;2
+627;Nando Pijnaker;Nova Zelândia;Sligo Rovers;Defesa;1.92;85.0;67;4
+628;Tommy Smith;Nova Zelândia;Auckland FC;Defesa;1.88;83.0;66;5
+629;Tyler Bindon;Nova Zelândia;Reading;Defesa;1.91;82.0;65;15
+630;Tim Payne;Nova Zelândia;Wellington Phoenix;Defesa;1.78;74.0;68;6
+631;Finn Surman;Nova Zelândia;Wellington Phoenix;Defesa;1.88;80.0;64;16
+632;Joe Bell;Nova Zelândia;Viking;Médio;1.82;76.0;70;8
+633;Marko Stamenic;Nova Zelândia;Crvena zvezda;Médio;1.88;81.0;71;10
+634;Matthew Garbett;Nova Zelândia;NAC Breda;Médio;1.80;75.0;69;14
+635;Sarpreet Singh;Nova Zelândia;Hansa Rostock;Médio;1.75;68.0;70;11
+636;Clayton Lewis;Nova Zelândia;Macarthur FC;Médio;1.72;68.0;66;23
+637;Callum McCowatt;Nova Zelândia;Silkeborg;Médio;1.76;71.0;67;21
+638;Alex Rufer;Nova Zelândia;Wellington Phoenix;Médio;1.84;78.0;67;20
+639;Chris Wood;Nova Zelândia;Nottingham Forest;Avançado;1.91;84.0;77;9
+640;Kosta Barbarouses;Nova Zelândia;Wellington Phoenix;Avançado;1.71;68.0;68;7
+641;Elijah Just;Nova Zelândia;Horsens;Avançado;1.75;70.0;67;18
+642;Ben Waine;Nova Zelândia;Plymouth Argyle;Avançado;1.78;73.0;66;19
+643;Max Mata;Nova Zelândia;Shrewsbury Town;Avançado;1.88;82.0;65;17
+644;Ben Old;Nova Zelândia;Wellington Phoenix;Avançado;1.75;70.0;64;24
+645;Unai Simón;Espanha;Athletic Bilbao;Guarda-Redes;1.90;80.0;84;23
+646;David Raya;Espanha;Arsenal;Guarda-Redes;1.83;80.0;83;1
+647;Álex Remiro;Espanha;Real Sociedad;Guarda-Redes;1.91;82.0;82;13
+648;Dani Carvajal;Espanha;Real Madrid;Defesa;1.73;73.0;85;2
+649;Aymeric Laporte;Espanha;Al-Nassr;Defesa;1.89;85.0;84;14
+650;Robin Le Normand;Espanha;Real Sociedad;Defesa;1.87;81.0;82;3
+651;Pau Torres;Espanha;Aston Villa;Defesa;1.91;80.0;83;4
+652;Alejandro Grimaldo;Espanha;Bayer Leverkusen;Defesa;1.71;69.0;84;12
+653;Jesús Navas;Espanha;Sevilla;Defesa;1.72;60.0;79;22
+654;Marc Cucurella;Espanha;Chelsea;Defesa;1.73;66.0;80;24
+655;Nacho Fernández;Espanha;Real Madrid;Defesa;1.80;76.0;82;6
+656;Rodri;Espanha;Manchester City;Médio;1.91;82.0;90;16
+657;Pedri;Espanha;Barcelona;Médio;1.74;60.0;86;20
+658;Fabián Ruiz;Espanha;PSG;Médio;1.89;70.0;83;8
+659;Mikel Merino;Espanha;Real Sociedad;Médio;1.89;83.0;82;6
+660;Martín Zubimendi;Espanha;Real Sociedad;Médio;1.81;74.0;82;18
+661;Gavi;Espanha;Barcelona;Médio;1.73;68.0;84;9
+662;Álvaro Morata;Espanha;Atlético Madrid;Avançado;1.89;84.0;83;7
+663;Lamine Yamal;Espanha;Barcelona;Avançado;1.78;66.0;81;19
+664;Nico Williams;Espanha;Athletic Bilbao;Avançado;1.81;67.0;82;11
+665;Ferran Torres;Espanha;Barcelona;Avançado;1.84;77.0;82;15
+666;Dani Olmo;Espanha;RB Leipzig;Avançado;1.79;72.0;83;10
+667;Mikel Oyarzabal;Espanha;Real Sociedad;Avançado;1.81;78.0;82;21
+668;Sergio Rochet;Uruguai;Internacional;Guarda-Redes;1.90;82.0;80;1
+669;Santiago Mele;Uruguai;Junior;Guarda-Redes;1.82;78.0;75;12
+670;Franco Israel;Uruguai;Sporting CP;Guarda-Redes;1.90;82.0;73;23
+671;José María Giménez;Uruguai;Atlético Madrid;Defesa;1.85;80.0;83;2
+672;Ronald Araújo;Uruguai;Barcelona;Defesa;1.88;79.0;85;4
+673;Mathías Olivera;Uruguai;Napoli;Defesa;1.75;78.0;79;16
+674;Matías Viña;Uruguai;Flamengo;Defesa;1.75;73.0;76;17
+675;Nahitan Nández;Uruguai;Cagliari;Defesa;1.72;71.0;77;8
+676;Guillermo Varela;Uruguai;Flamengo;Defesa;1.73;70.0;75;13
+677;Sebastián Cáceres;Uruguai;América;Defesa;1.80;76.0;76;3
+678;Joaquín Piquerez;Uruguai;Palmeiras;Defesa;1.83;77.0;77;22
+679;Federico Valverde;Uruguai;Real Madrid;Médio;1.82;78.0;88;15
+680;Manuel Ugarte;Uruguai;PSG;Médio;1.82;77.0;81;20
+681;Rodrigo Bentancur;Uruguai;Tottenham;Médio;1.87;77.0;82;6
+682;Nicolás de la Cruz;Uruguai;Flamengo;Médio;1.67;65.0;80;7
+683;Giorgian de Arrascaeta;Uruguai;Flamengo;Médio;1.73;73.0;81;10
+684;Maximiliano Araújo;Uruguai;Toluca;Médio;1.79;73.0;76;11
+685;Facundo Pellistri;Uruguai;Granada;Avançado;1.74;68.0;75;18
+686;Darwin Núñez;Uruguai;Liverpool;Avançado;1.87;81.0;83;9
+687;Luis Suárez;Uruguai;Inter Miami;Avançado;1.82;83.0;82;21
+688;Brian Rodríguez;Uruguai;América;Avançado;1.73;68.0;75;14
+689;Facundo Torres;Uruguai;Orlando City;Avançado;1.77;72.0;76;19
+690;Federico Viñas;Uruguai;León;Avançado;1.80;82.0;76;24
+691;Mohammed Al-Owais;Arábia Saudita;Al-Hilal;Guarda-Redes;1.85;78.0;74;21
+692;Nawaf Al-Aqidi;Arábia Saudita;Al-Nassr;Guarda-Redes;1.88;80.0;70;1
+693;Raghed Al-Najjar;Arábia Saudita;Al-Nassr;Guarda-Redes;1.89;82.0;68;22
+694;Ali Al-Bulaihi;Arábia Saudita;Al-Hilal;Defesa;1.82;76.0;75;5
+695;Hassan Tambakti;Arábia Saudita;Al-Hilal;Defesa;1.82;74.0;74;4
+696;Saud Abdulhamid;Arábia Saudita;Al-Hilal;Defesa;1.71;66.0;76;12
+697;Yasser Al-Shahrani;Arábia Saudita;Al-Hilal;Defesa;1.70;65.0;73;13
+698;Abdulelah Al-Amri;Arábia Saudita;Al-Nassr;Defesa;1.85;78.0;72;3
+699;Ali Majrashi;Arábia Saudita;Al-Ahli;Defesa;1.76;71.0;69;2
+700;Awn Al-Saluli;Arábia Saudita;Al-Taawoun;Defesa;1.85;77.0;68;23
+701;Mohamed Kanno;Arábia Saudita;Al-Hilal;Médio;1.92;78.0;76;20
+702;Salem Al-Dawsari;Arábia Saudita;Al-Hilal;Médio;1.73;71.0;78;10
+703;Abdullah Al-Khaibari;Arábia Saudita;Al-Nassr;Médio;1.75;70.0;72;15
+704;Faisal Al-Ghamdi;Arábia Saudita;Al-Ittihad;Médio;1.78;71.0;69;16
+705;Mukhtar Ali;Arábia Saudita;Al-Fateh;Médio;1.75;68.0;70;8
+706;Sami Al-Najei;Arábia Saudita;Al-Nassr;Médio;1.76;72.0;71;14
+707;Abdulrahman Ghareeb;Arábia Saudita;Al-Nassr;Médio;1.65;62.0;74;18
+708;Ayman Yahya;Arábia Saudita;Al-Nassr;Médio;1.71;66.0;70;24
+709;Firas Al-Buraikan;Arábia Saudita;Al-Ahli;Avançado;1.81;74.0;75;9
+710;Saleh Al-Shehri;Arábia Saudita;Al-Hilal;Avançado;1.84;78.0;73;11
+711;Abdullah Radif;Arábia Saudita;Al-Shabab;Avançado;1.87;80.0;69;25
+712;Talal Haji;Arábia Saudita;Al-Ittihad;Avançado;1.75;70.0;65;26
+713;Fahad Al-Muwallad;Arábia Saudita;Al-Shabab;Avançado;1.67;65.0;71;19
+714;Vozinha;Cabo Verde;AS Trenčín;Guarda-Redes;1.89;82.0;70;1
+715;Márcio da Rosa;Cabo Verde;Anadia;Guarda-Redes;1.88;80.0;66;12
+716;Dylan Silva;Cabo Verde;Sintrense;Guarda-Redes;1.90;81.0;64;23
+717;Roberto Lopes;Cabo Verde;Shamrock Rovers;Defesa;1.85;80.0;69;4
+718;Logan Costa;Cabo Verde;Toulouse;Defesa;1.90;85.0;74;5
+719;Stopira;Cabo Verde;Boavista da Praia;Defesa;1.80;76.0;68;2
+720;João Paulo;Cabo Verde;Sheriff;Defesa;1.75;68.0;67;3
+721;Steven Moreira;Cabo Verde;Columbus Crew;Defesa;1.80;77.0;71;15
+722;Diney Borges;Cabo Verde;Al Bataeh;Defesa;1.86;82.0;69;16
+723;Dylan Tavares;Cabo Verde;Bastia;Defesa;1.74;70.0;66;21
+724;Jamiro Monteiro;Cabo Verde;San Jose Earthquakes;Médio;1.70;65.0;73;10
+725;Kevin Pina;Cabo Verde;Krasnodar;Médio;1.81;78.0;72;20
+726;Patrick Andrade;Cabo Verde;Qarabağ;Médio;1.76;72.0;71;6
+727;Deroy Duarte;Cabo Verde;Fortuna Sittard;Médio;1.77;70.0;70;18
+728;João Paulo Fernandes;Cabo Verde;Sheriff Tiraspol;Médio;1.78;71.0;68;8
+729;Kenny Rocha Santos;Cabo Verde;AEZ Zakakiou;Médio;1.75;68.0;69;14
+730;Laros Duarte;Cabo Verde;Groningen;Médio;1.80;74.0;68;24
+731;Ryan Mendes;Cabo Verde;Kocaelispor;Avançado;1.75;70.0;73;22
+732;Bebé;Cabo Verde;Rayo Vallecano;Avançado;1.90;84.0;74;11
+733;Jovane Cabral;Cabo Verde;Olympiacos;Avançado;1.74;72.0;75;7
+734;Garry Rodrigues;Cabo Verde;Ankaragücü;Avançado;1.73;70.0;74;25
+735;Bryan Teixeira;Cabo Verde;Magdeburg;Avançado;1.74;69.0;70;19
+736;Gilson Tavares;Cabo Verde;Benfica B;Avançado;1.85;80.0;68;9
+737;Mike Maignan;França;Milan;Guarda-Redes;1.91;89.0;87;16
+738;Alphonse Areola;França;West Ham;Guarda-Redes;1.95;94.0;81;23
+739;Brice Samba;França;Lens;Guarda-Redes;1.86;79.0;82;1
+740;Benjamin Pavard;França;Inter;Defesa;1.86;81.0;83;2
+741;Jules Koundé;França;Barcelona;Defesa;1.80;75.0;85;5
+742;Dayot Upamecano;França;Bayern Munique;Defesa;1.86;83.0;84;4
+743;William Saliba;França;Arsenal;Defesa;1.92;83.0;86;17
+744;Ibrahima Konaté;França;Liverpool;Defesa;1.94;95.0;83;24
+745;Theo Hernández;França;Milan;Defesa;1.84;81.0;85;22
+746;Ferland Mendy;França;Real Madrid;Defesa;1.80;73.0;82;3
+747;Jonathan Clauss;França;Marselha;Defesa;1.76;69.0;81;21
+748;Aurélien Tchouaméni;França;Real Madrid;Médio;1.87;81.0;85;8
+749;Adrien Rabiot;França;Juventus;Médio;1.88;80.0;84;14
+750;Eduardo Camavinga;França;Real Madrid;Médio;1.82;68.0;84;6
+751;Warren Zaïre-Emery;França;PSG;Médio;1.78;68.0;80;33
+752;N'Golo Kanté;França;Al-Ittihad;Médio;1.68;68.0;86;13
+753;Youssouf Fofana;França;Monaco;Médio;1.85;74.0;81;19
+754;Kylian Mbappé;França;PSG;Avançado;1.78;73.0;91;10
+755;Antoine Griezmann;França;Atlético Madrid;Avançado;1.76;73.0;88;7
+756;Ousmane Dembélé;França;PSG;Avançado;1.78;67.0;84;11
+757;Marcus Thuram;França;Inter;Avançado;1.92;90.0;83;15
+758;Randal Kolo Muani;França;PSG;Avançado;1.87;73.0;83;12
+759;Kingsley Coman;França;Bayern Munique;Avançado;1.80;75.0;84;20
+760;Ørjan Nyland;Noruega;Sevilla;Guarda-Redes;1.92;88.0;75;1
+761;Egil Selvik;Noruega;Haugesund;Guarda-Redes;1.87;80.0;70;12
+762;Mathias Dyngeland;Noruega;Brann;Guarda-Redes;1.89;82.0;68;13
+763;Julian Ryerson;Noruega;Dortmund;Defesa;1.83;82.0;79;14
+764;Kristoffer Ajer;Noruega;Brentford;Defesa;1.96;93.0;76;3
+765;Leo Østigård;Noruega;Napoli;Defesa;1.84;82.0;75;4
+766;Birger Meling;Noruega;Copenhagen;Defesa;1.73;65.0;74;5
+767;Marcus Holmgren Pedersen;Noruega;Sassuolo;Defesa;1.78;72.0;75;21
+768;Andreas Hanche-Olsen;Noruega;Mainz;Defesa;1.85;78.0;74;22
+769;Fredrik Bjørkan;Noruega;Bodø/Glimt;Defesa;1.80;73.0;72;17
+770;Stian Gregersen;Noruega;Atlanta United;Defesa;1.91;83.0;71;15
+771;Martin Ødegaard;Noruega;Arsenal;Médio;1.78;68.0;87;10
+772;Sander Berge;Noruega;Burnley;Médio;1.95;96.0;77;8
+773;Fredrik Aursnes;Noruega;Benfica;Médio;1.79;71.0;81;16
+774;Kristian Thorstvedt;Noruega;Sassuolo;Médio;1.89;82.0;75;2
+775;Patrick Berg;Noruega;Bodø/Glimt;Médio;1.78;70.0;76;6
+776;Oscar Bobb;Noruega;Manchester City;Médio;1.75;68.0;74;20
+777;Hugo Vetlesen;Noruega;Club Brugge;Médio;1.74;69.0;75;18
+778;Erling Haaland;Noruega;Manchester City;Avançado;1.95;88.0;91;9
+779;Alexander Sørloth;Noruega;Villarreal;Avançado;1.95;90.0;82;7
+780;Jørgen Strand Larsen;Noruega;Celta Vigo;Avançado;1.93;82.0;77;19
+781;Antonio Nusa;Noruega;Club Brugge;Avançado;1.80;73.0;75;11
+782;Mohamed Elyounoussi;Noruega;Copenhagen;Avançado;1.78;70.0;76;23
+783;Édouard Mendy;Senegal;Al-Ahli;Guarda-Redes;1.97;86.0;83;16
+784;Mory Diaw;Senegal;Clermont;Guarda-Redes;1.97;95.0;75;1
+785;Seny Dieng;Senegal;Middlesbrough;Guarda-Redes;1.93;83.0;74;23
+786;Kalidou Koulibaly;Senegal;Al-Hilal;Defesa;1.86;89.0;84;3
+787;Abdou Diallo;Senegal;Al-Arabi;Defesa;1.86;79.0;78;22
+788;Moussa Niakhaté;Senegal;Nottingham Forest;Defesa;1.90;82.0;77;19
+789;Ismail Jakobs;Senegal;Monaco;Defesa;1.84;74.0;76;14
+790;Youssouf Sabaly;Senegal;Real Betis;Defesa;1.74;67.0;77;21
+791;Fodé Ballo-Touré;Senegal;Fulham;Defesa;1.82;74.0;74;2
+792;Abdoulaye Seck;Senegal;Maccabi Haifa;Defesa;1.92;84.0;73;4
+793;Formose Mendy;Senegal;Lorient;Defesa;1.91;82.0;72;12
+794;Idrissa Gana Gueye;Senegal;Everton;Médio;1.74;66.0;79;5
+795;Nampalys Mendy;Senegal;Lens;Médio;1.67;73.0;76;6
+796;Pape Matar Sarr;Senegal;Tottenham;Médio;1.85;70.0;79;15
+797;Cheikhou Kouyaté;Senegal;Nottingham Forest;Médio;1.89;86.0;76;8
+798;Krépin Diatta;Senegal;Monaco;Médio;1.75;68.0;76;11
+799;Pathé Ciss;Senegal;Rayo Vallecano;Médio;1.86;78.0;75;13
+800;Sadio Mané;Senegal;Al-Nassr;Avançado;1.74;69.0;85;10
+801;Ismaïla Sarr;Senegal;Marselha;Avançado;1.75;70.0;78;18
+802;Nicolas Jackson;Senegal;Chelsea;Avançado;1.88;78.0;79;7
+803;Boulaye Dia;Senegal;Salernitana;Avançado;1.80;75.0;78;9
+804;Iliman Ndiaye;Senegal;Marselha;Avançado;1.80;71.0;77;17
+805;Habib Diallo;Senegal;Al-Shabab;Avançado;1.86;79.0;76;20
+806;Jalal Hassan;Iraque;Al-Zawraa;Guarda-Redes;1.88;83.0;70;1
+807;Fahad Talib;Iraque;Sanat Naft;Guarda-Redes;1.89;82.0;67;12
+808;Ahmed Basil;Iraque;Al-Shorta;Guarda-Redes;1.91;85.0;66;22
+809;Ali Adnan;Iraque;Mes Rafsanjan;Defesa;1.85;82.0;72;6
+810;Rebin Sulaka;Iraque;FC Seoul;Defesa;1.92;86.0;69;2
+811;Frans Putros;Iraque;Port FC;Defesa;1.81;75.0;68;5
+812;Hussein Ali;Iraque;Heerenveen;Defesa;1.80;74.0;69;3
+813;Merchas Doski;Iraque;Slovacko;Defesa;1.73;70.0;68;23
+814;Saad Natiq;Iraque;Al-Quwa Al-Jawiya;Defesa;1.88;82.0;68;4
+815;Zaid Tahseen;Iraque;Al-Talaba;Defesa;1.90;80.0;66;15
+816;Mustafa Nadhim;Iraque;Al-Zawraa;Defesa;1.85;80.0;65;14
+817;Amjad Attwan;Iraque;Zakho;Médio;1.78;72.0;70;16
+818;Osama Rashid;Iraque;Vizela;Médio;1.80;75.0;71;20
+819;Amir Al-Ammari;Iraque;Halmstads;Médio;1.82;74.0;70;13
+820;Bashar Resan;Iraque;Qatar SC;Médio;1.75;69.0;73;11
+821;Zidane Iqbal;Iraque;Utrecht;Médio;1.81;72.0;71;8
+822;Ibrahim Bayesh;Iraque;Al-Quwa Al-Jawiya;Médio;1.78;70.0;70;10
+823;Youssef Amyn;Iraque;Eintracht Braunschweig;Médio;1.72;68.0;68;19
+824;Aymen Hussein;Iraque;Al-Quwa Al-Jawiya;Avançado;1.89;84.0;73;18
+825;Mohanad Ali;Iraque;Al-Shorta;Avançado;1.83;78.0;71;9
+826;Ali Al-Hamadi;Iraque;Ipswich Town;Avançado;1.87;80.0;72;7
+827;Ali Jasim;Iraque;Al-Quwa Al-Jawiya;Avançado;1.76;71.0;71;17
+828;Pashang Abdulla;Iraque;Degerfors;Avançado;1.84;82.0;67;21
+829;Emiliano Martínez;Argentina;Aston Villa;Guarda-Redes;1.95;88.0;87;23
+830;Franco Armani;Argentina;River Plate;Guarda-Redes;1.89;85.0;79;1
+831;Gerónimo Rulli;Argentina;Ajax;Guarda-Redes;1.89;84.0;80;12
+832;Cristian Romero;Argentina;Tottenham;Defesa;1.85;79.0;86;13
+833;Lisandro Martínez;Argentina;Man Utd;Defesa;1.75;77.0;84;25
+834;Nicolás Otamendi;Argentina;Benfica;Defesa;1.83;81.0;82;19
+835;Nahuel Molina;Argentina;Atlético Madrid;Defesa;1.75;70.0;82;26
+836;Nicolás Tagliafico;Argentina;Lyon;Defesa;1.72;65.0;81;3
+837;Marcos Acuña;Argentina;Sevilla;Defesa;1.72;69.0;81;8
+838;Gonzalo Montiel;Argentina;Nottingham Forest;Defesa;1.75;71.0;79;4
+839;Germán Pezzella;Argentina;Real Betis;Defesa;1.87;82.0;79;6
+840;Enzo Fernández;Argentina;Chelsea;Médio;1.78;76.0;85;24
+841;Alexis Mac Allister;Argentina;Liverpool;Médio;1.76;72.0;85;20
+842;Rodrigo De Paul;Argentina;Atlético Madrid;Médio;1.80;71.0;84;7
+843;Leandro Paredes;Argentina;Roma;Médio;1.80;75.0;81;5
+844;Giovani Lo Celso;Argentina;Tottenham;Médio;1.77;68.0;81;16
+845;Exequiel Palacios;Argentina;Bayer Leverkusen;Médio;1.77;70.0;82;14
+846;Lionel Messi;Argentina;Inter Miami;Avançado;1.70;72.0;90;10
+847;Julián Álvarez;Argentina;Manchester City;Avançado;1.70;71.0;86;9
+848;Lautaro Martínez;Argentina;Inter;Avançado;1.74;72.0;87;22
+849;Alejandro Garnacho;Argentina;Man Utd;Avançado;1.80;72.0;81;17
+850;Paulo Dybala;Argentina;Roma;Avançado;1.77;75.0;84;21
+851;Nicolás González;Argentina;Fiorentina;Avançado;1.80;72.0;81;15
+852;Alexander Schlager;Áustria;RB Salzburg;Guarda-Redes;1.84;78.0;76;1
+853;Patrick Pentz;Áustria;Brøndby;Guarda-Redes;1.82;76.0;74;12
+854;Heinz Lindner;Áustria;Royale Union SG;Guarda-Redes;1.87;80.0;73;13
+855;David Alaba;Áustria;Real Madrid;Defesa;1.80;78.0;85;8
+856;Kevin Danso;Áustria;Lens;Defesa;1.90;86.0;80;4
+857;Philipp Lienhart;Áustria;Freiburg;Defesa;1.89;80.0;79;15
+858;Stefan Posch;Áustria;Bologna;Defesa;1.89;82.0;78;5
+859;Maximilian Wöber;Áustria;Borussia M'gladbach;Defesa;1.88;82.0;76;2
+860;Phillipp Mwene;Áustria;Mainz;Defesa;1.70;68.0;75;16
+861;Stefan Lainer;Áustria;Borussia M'gladbach;Defesa;1.75;73.0;76;21
+862;Marcel Sabitzer;Áustria;Dortmund;Médio;1.77;76.0;83;9
+863;Konrad Laimer;Áustria;Bayern Munique;Médio;1.80;72.0;82;20
+864;Xaver Schlager;Áustria;RB Leipzig;Médio;1.74;74.0;81;24
+865;Christoph Baumgartner;Áustria;RB Leipzig;Médio;1.80;73.0;80;19
+866;Nicolas Seiwald;Áustria;RB Leipzig;Médio;1.79;75.0;78;6
+867;Florian Grillitsch;Áustria;Hoffenheim;Médio;1.87;77.0;78;10
+868;Romano Schmid;Áustria;Werder Bremen;Médio;1.68;66.0;75;18
+869;Marko Arnautović;Áustria;Inter;Avançado;1.92;83.0;80;7
+870;Michael Gregoritsch;Áustria;Freiburg;Avançado;1.93;85.0;78;11
+871;Sasa Kalajdzic;Áustria;Eintracht Frankfurt;Avançado;2.00;90.0;78;22
+872;Patrick Wimmer;Áustria;Wolfsburg;Avançado;1.82;77.0;77;23
+873;Andreas Weimann;Áustria;West Bromwich;Avançado;1.88;80.0;73;14
+874;Muhammed Cham;Áustria;Clermont;Avançado;1.80;73.0;74;17
+875;Anthony Mandrea;Argélia;Caen;Guarda-Redes;1.86;78.0;75;16
+876;Raïs M'Bolhi;Argélia;CR Belouizdad;Guarda-Redes;1.90;82.0;73;23
+877;Moustapha Zeghba;Argélia;Damac;Guarda-Redes;1.90;80.0;71;1
+878;Ramy Bensebaini;Argélia;Dortmund;Defesa;1.87;82.0;80;21
+879;Aïssa Mandi;Argélia;Villarreal;Defesa;1.84;78.0;78;2
+880;Rayan Aït-Nouri;Argélia;Wolves;Defesa;1.79;70.0;80;15
+881;Youcef Atal;Argélia;Adana Demirspor;Defesa;1.76;67.0;77;20
+882;Ahmed Touba;Argélia;Lecce;Defesa;1.90;83.0;74;5
+883;Zinedine Belaïd;Argélia;USM Alger;Defesa;1.87;81.0;71;4
+884;Kevin Van Den Kerkhof;Argélia;Metz;Defesa;1.90;82.0;72;3
+885;Ismaël Bennacer;Argélia;Milan;Médio;1.75;71.0;83;22
+886;Houssem Aouar;Argélia;Roma;Médio;1.75;70.0;79;8
+887;Nabil Bentaleb;Argélia;Lille;Médio;1.87;78.0;78;14
+888;Ramiz Zerrouki;Argélia;Feyenoord;Médio;1.83;76.0;77;6
+889;Sofiane Feghouli;Argélia;Fatih Karagümrük;Médio;1.77;71.0;76;10
+890;Hicham Boudaoui;Argélia;Nice;Médio;1.75;68.0;76;19
+891;Farès Chaïbi;Argélia;Eintracht Frankfurt;Médio;1.83;76.0;77;17
+892;Riyad Mahrez;Argélia;Al-Ahli;Avançado;1.79;67.0;84;7
+893;Baghdad Bounedjah;Argélia;Al-Sadd;Avançado;1.84;78.0;76;9
+894;Islam Slimani;Argélia;Mechelen;Avançado;1.88;83.0;75;13
+895;Amine Gouiri;Argélia;Rennes;Avançado;1.80;72.0;79;11
+896;Saïd Benrahma;Argélia;Lyon;Avançado;1.72;67.0;78;12
+897;Youcef Belaïli;Argélia;MC Alger;Avançado;1.80;75.0;76;24
+898;Yazeed Abulaila;Jordânia;Al-Jabalain;Guarda-Redes;1.90;82.0;70;1
+899;Abdallah Al-Fakhouri;Jordânia;Al-Wehdat;Guarda-Redes;1.88;80.0;67;22
+900;Ahmad Al-Juaidi;Jordânia;Shabab Al-Ordon;Guarda-Redes;1.85;78.0;65;12
+901;Yazan Al-Arab;Jordânia;Muaither;Defesa;1.86;82.0;72;5
+902;Abdallah Nasib;Jordânia;Al-Hussein;Defesa;1.85;80.0;70;3
+903;Salem Al-Ajalin;Jordânia;Al-Faisaly;Defesa;1.78;74.0;68;17
+904;Ihsan Haddad;Jordânia;Al-Faisaly;Defesa;1.74;70.0;69;23
+905;Mohammad Abu Hasheesh;Jordânia;Al-Ahed;Defesa;1.76;71.0;67;2
+906;Bara' Marei;Jordânia;Al-Faisaly;Defesa;1.86;81.0;66;4
+907;Feras Shelbaieh;Jordânia;Al-Wehdat;Defesa;1.75;70.0;66;16
+908;Noor Al-Rawabdeh;Jordânia;Selangor;Médio;1.80;75.0;70;21
+909;Nizar Al-Rashdan;Jordânia;Emirates Club;Médio;1.82;76.0;69;14
+910;Mahmoud Al-Mardi;Jordânia;Al-Hussein;Médio;1.76;71.0;71;13
+911;Rajaei Ayed;Jordânia;Al-Hussein;Médio;1.75;70.0;68;8
+912;Saleh Ratib;Jordânia;Al-Wehdat;Médio;1.74;69.0;67;15
+913;Ibrahim Sadeh;Jordânia;Al-Khor;Médio;1.75;70.0;67;24
+914;Anas Al-Awadat;Jordânia;Al-Wehdat;Médio;1.72;68.0;66;20
+915;Mousa Al-Tamari;Jordânia;Montpellier;Avançado;1.78;70.0;77;10
+916;Yazan Al-Naimat;Jordânia;Al-Ahli SC;Avançado;1.80;74.0;74;11
+917;Ali Olwan;Jordânia;Al-Shamal;Avançado;1.82;76.0;72;9
+918;Hamza Al-Dardour;Jordânia;Al-Hussein;Avançado;1.76;72.0;68;7
+919;Mohannad Abu Taha;Jordânia;Al-Wehdat;Avançado;1.75;70.0;66;18
+920;Sharara;Jordânia;Al-Ahly Tripoli;Avançado;1.73;68.0;67;19
+921;Diogo Costa;Portugal;Porto;Guarda-Redes;1.86;82.0;84;22
+922;Rui Patrício;Portugal;Roma;Guarda-Redes;1.90;84.0;80;1
+923;José Sá;Portugal;Wolves;Guarda-Redes;1.92;84.0;79;12
+924;Rúben Dias;Portugal;Manchester City;Defesa;1.87;83.0;88;4
+925;Pepe;Portugal;Porto;Defesa;1.88;81.0;83;3
+926;António Silva;Portugal;Benfica;Defesa;1.87;80.0;81;24
+927;Gonçalo Inácio;Portugal;Sporting CP;Defesa;1.85;78.0;80;14
+928;João Cancelo;Portugal;Barcelona;Defesa;1.82;74.0;85;20
+929;Diogo Dalot;Portugal;Man Utd;Defesa;1.83;76.0;82;2
+930;Nuno Mendes;Portugal;PSG;Defesa;1.76;73.0;83;19
+931;Raphael Guerreiro;Portugal;Bayern Munique;Defesa;1.70;71.0;82;5
+932;João Palhinha;Portugal;Fulham;Médio;1.90;84.0;84;6
+933;Rúben Neves;Portugal;Al-Hilal;Médio;1.80;80.0;82;18
+934;Bruno Fernandes;Portugal;Man Utd;Médio;1.79;69.0;88;8
+935;Bernardo Silva;Portugal;Manchester City;Médio;1.73;64.0;89;10
+936;Vitinha;Portugal;PSG;Médio;1.72;64.0;83;23
+937;Otávio;Portugal;Al-Nassr;Médio;1.73;71.0;82;16
+938;Matheus Nunes;Portugal;Manchester City;Médio;1.83;76.0;80;15
+939;Cristiano Ronaldo;Portugal;Al-Nassr;Avançado;1.87;83.0;86;7
+940;Rafael Leão;Portugal;Milan;Avançado;1.88;81.0;85;17
+941;João Félix;Portugal;Barcelona;Avançado;1.81;72.0;83;11
+942;Diogo Jota;Portugal;Liverpool;Avançado;1.78;73.0;84;21
+943;Gonçalo Ramos;Portugal;PSG;Avançado;1.85;79.0;82;9
+944;Camilo Vargas;Colômbia;Atlas;Guarda-Redes;1.85;82.0;78;12
+945;David Ospina;Colômbia;Al-Nassr;Guarda-Redes;1.83;80.0;77;1
+946;Álvaro Montero;Colômbia;Millonarios;Guarda-Redes;1.95;88.0;74;22
+947;Davinson Sánchez;Colômbia;Galatasaray;Defesa;1.87;83.0;79;23
+948;Yerry Mina;Colômbia;Cagliari;Defesa;1.95;94.0;77;13
+949;Jhon Lucumí;Colômbia;Bologna;Defesa;1.87;81.0;78;3
+950;Carlos Cuesta;Colômbia;Genk;Defesa;1.78;74.0;76;2
+951;Daniel Muñoz;Colômbia;Crystal Palace;Defesa;1.83;78.0;78;21
+952;Santiago Arias;Colômbia;Bahia;Defesa;1.77;72.0;75;4
+953;Deiver Machado;Colômbia;Lens;Defesa;1.72;68.0;76;17
+954;Johan Mojica;Colômbia;Osasuna;Defesa;1.85;78.0;75;25
+955;Jefferson Lerma;Colômbia;Crystal Palace;Médio;1.79;77.0;79;16
+956;Mateus Uribe;Colômbia;Al-Sadd;Médio;1.82;78.0;77;15
+957;Richard Ríos;Colômbia;Palmeiras;Médio;1.85;78.0;75;6
+958;Kevin Castaño;Colômbia;Krasnodar;Médio;1.78;73.0;74;5
+959;James Rodríguez;Colômbia;São Paulo;Médio;1.80;78.0;80;10
+960;Jorge Carrascal;Colômbia;Dínamo Moscovo;Médio;1.79;73.0;76;8
+961;Juan Fernando Quintero;Colômbia;Racing;Médio;1.69;64.0;77;20
+962;Luis Díaz;Colômbia;Liverpool;Avançado;1.80;73.0;85;7
+963;Jhon Arias;Colômbia;Fluminense;Avançado;1.68;66.0;80;11
+964;Rafael Santos Borré;Colômbia;Internacional;Avançado;1.74;70.0;77;19
+965;Jhon Durán;Colômbia;Aston Villa;Avançado;1.85;80.0;75;14
+966;Luis Sinisterra;Colômbia;Bournemouth;Avançado;1.72;69.0;78;9
+967;Lionel Mpasi;RD Congo;Rodez;Guarda-Redes;1.82;78.0;72;1
+968;Dimitry Bertaud;RD Congo;Montpellier;Guarda-Redes;1.82;79.0;71;16
+969;Baggio Siadi;RD Congo;TP Mazembe;Guarda-Redes;1.85;81.0;68;23
+970;Chancel Mbemba;RD Congo;Marselha;Defesa;1.82;81.0;82;22
+971;Henoc Inonga;RD Congo;Simba SC;Defesa;1.82;78.0;70;2
+972;Dylan Batubinsika;RD Congo;Saint-Étienne;Defesa;1.85;80.0;73;5
+973;Rocky Bushiri;RD Congo;Hibernian;Defesa;1.86;82.0;69;15
+974;Gédéon Kalulu;RD Congo;Lorient;Defesa;1.79;75.0;74;24
+975;Brian Bayeye;RD Congo;Ascoli;Defesa;1.78;73.0;68;4
+976;Arthur Masuaku;RD Congo;Beşiktaş;Defesa;1.79;78.0;76;26
+977;Joris Kayembe;RD Congo;Genk;Defesa;1.81;76.0;72;12
+978;Samuel Moutoussamy;RD Congo;Nantes;Médio;1.76;74.0;74;8
+979;Charles Pickel;RD Congo;Cremonese;Médio;1.86;80.0;73;18
+980;Aaron Tshibola;RD Congo;Hatta;Médio;1.90;82.0;70;6
+981;Omenuke Mfulu;RD Congo;Las Palmas;Médio;1.82;80.0;71;14
+982;Gaël Kakuta;RD Congo;Amiens;Médio;1.73;68.0;74;10
+983;Théo Bongonda;RD Congo;Spartak Moscovo;Médio;1.77;73.0;76;20
+984;Meschack Elia;RD Congo;Young Boys;Médio;1.73;68.0;75;13
+985;Cédric Bakambu;RD Congo;Real Betis;Avançado;1.82;74.0;77;17
+986;Yoane Wissa;RD Congo;Brentford;Avançado;1.76;73.0;78;11
+987;Fiston Mayele;RD Congo;Pyramids;Avançado;1.85;80.0;72;19
+988;Simon Banza;RD Congo;Braga;Avançado;1.89;82.0;79;25
+989;Silas Katompa Mvumpa;RD Congo;Stuttgart;Avançado;1.89;80.0;77;9
+990;Utkir Yusupov;Uzbequistão;Navbahor;Guarda-Redes;1.85;80.0;72;1
+991;Abduvohid Nematov;Uzbequistão;Nasaf;Guarda-Redes;1.83;78.0;68;12
+992;Botirali Ergashev;Uzbequistão;AGMK;Guarda-Redes;1.88;82.0;67;16
+993;Abdukodir Khusanov;Uzbequistão;Lens;Defesa;1.86;80.0;73;25
+994;Rustam Ashurmatov;Uzbequistão;Rubin Kazan;Defesa;1.85;81.0;71;5
+995;Umar Eshmurodov;Uzbequistão;Selangor;Defesa;1.88;83.0;70;15
+996;Husniddin Aliqulov;Uzbequistão;Çaykur Rizespor;Defesa;1.85;80.0;71;3
+997;Farrukh Sayfiev;Uzbequistão;Navbahor;Defesa;1.76;72.0;71;4
+998;Sherzod Nasrullaev;Uzbequistão;Nasaf;Defesa;1.75;70.0;69;13
+999;Khojiakbar Alijonov;Uzbequistão;Pakhtakor;Defesa;1.78;74.0;68;26
+1000;Zafarmurod Abdurakhmatov;Uzbequistão;Nasaf;Defesa;1.73;68.0;66;2
+1001;Otabek Shukurov;Uzbequistão;Kayserispor;Médio;1.82;78.0;73;7
+1002;Odiljon Hamrobekov;Uzbequistão;Navbahor;Médio;1.80;76.0;72;9
+1003;Jamshid Iskanderov;Uzbequistão;Navbahor;Médio;1.72;68.0;71;10
+1004;Azizbek Turgunboev;Uzbequistão;Sivasspor;Médio;1.75;70.0;70;19
+1005;Diyor Kholmatov;Uzbequistão;Pakhtakor;Médio;1.76;71.0;67;8
+1006;Jamshid Boltaboev;Uzbequistão;Navbahor;Médio;1.80;75.0;68;22
+1007;Khojimat Erkinov;Uzbequistão;Al-Wahda;Médio;1.73;68.0;69;20
+1008;Eldor Shomurodov;Uzbequistão;Cagliari;Avançado;1.90;84.0;75;14
+1009;Jaloliddin Masharipov;Uzbequistão;Esteghlal;Avançado;1.78;73.0;74;11
+1010;Abbosbek Fayzullaev;Uzbequistão;CSKA Moscovo;Avançado;1.67;63.0;73;22
+1011;Igor Sergeev;Uzbequistão;BG Pathum United;Avançado;1.88;82.0;70;21
+1012;Bobur Abdikholikov;Uzbequistão;Nasaf;Avançado;1.75;70.0;69;17
+1013;Jordan Pickford;Inglaterra;Everton;Guarda-Redes;1.85;77.0;82;1
+1014;Aaron Ramsdale;Inglaterra;Arsenal;Guarda-Redes;1.90;80.0;80;13
+1015;Dean Henderson;Inglaterra;Crystal Palace;Guarda-Redes;1.88;82.0;78;23
+1016;Kyle Walker;Inglaterra;Manchester City;Defesa;1.83;83.0;84;2
+1017;John Stones;Inglaterra;Manchester City;Defesa;1.88;73.0;85;5
+1018;Harry Maguire;Inglaterra;Man Utd;Defesa;1.94;100.0;81;6
+1019;Marc Guéhi;Inglaterra;Crystal Palace;Defesa;1.82;82.0;79;15
+1020;Luke Shaw;Inglaterra;Man Utd;Defesa;1.81;75.0;82;3
+1021;Kieran Trippier;Inglaterra;Newcastle;Defesa;1.73;71.0;81;12
+1022;Trent Alexander-Arnold;Inglaterra;Liverpool;Defesa;1.75;69.0;84;8
+1023;Declan Rice;Inglaterra;Arsenal;Médio;1.88;80.0;86;4
+1024;Jude Bellingham;Inglaterra;Real Madrid;Médio;1.86;75.0;88;10
+1025;Conor Gallagher;Inglaterra;Chelsea;Médio;1.82;74.0;80;16
+1026;Kobbie Mainoo;Inglaterra;Man Utd;Médio;1.75;73.0;78;21
+1027;Phil Foden;Inglaterra;Manchester City;Médio;1.71;70.0;86;11
+1028;Bukayo Saka;Inglaterra;Arsenal;Avançado;1.78;72.0;86;7
+1029;Cole Palmer;Inglaterra;Chelsea;Avançado;1.89;74.0;82;20
+1030;Anthony Gordon;Inglaterra;Newcastle;Avançado;1.83;72.0;79;18
+1031;Eberechi Eze;Inglaterra;Crystal Palace;Médio;1.73;67.0;79;19
+1032;Harry Kane;Inglaterra;Bayern Munique;Avançado;1.88;86.0;89;9
+1033;Ollie Watkins;Inglaterra;Aston Villa;Avançado;1.80;70.0;82;14
+1034;Ivan Toney;Inglaterra;Brentford;Avançado;1.85;76.0;80;17
+1035;Jarrod Bowen;Inglaterra;West Ham;Avançado;1.75;73.0;80;22
+1036;Dominik Livaković;Croácia;Fenerbahçe;Guarda-Redes;1.88;79.0;82;1
+1037;Ivica Ivušić;Croácia;Pafos;Guarda-Redes;1.95;85.0;76;23
+1038;Nediljko Labrović;Croácia;Rijeka;Guarda-Redes;1.96;88.0;74;12
+1039;Joško Gvardiol;Croácia;Manchester City;Defesa;1.85;80.0;84;4
+1040;Josip Šutalo;Croácia;Ajax;Defesa;1.90;82.0;79;6
+1041;Martin Erlić;Croácia;Sassuolo;Defesa;1.92;84.0;76;5
+1042;Domagoj Vida;Croácia;AEK Atenas;Defesa;1.84;76.0;77;21
+1043;Josip Stanišić;Croácia;Bayer Leverkusen;Defesa;1.87;77.0;78;2
+1044;Josip Juranović;Croácia;Union Berlin;Defesa;1.73;68.0;78;22
+1045;Borna Sosa;Croácia;Ajax;Defesa;1.87;79.0;77;19
+1046;Luka Modrić;Croácia;Real Madrid;Médio;1.72;66.0;86;10
+1047;Mateo Kovačić;Croácia;Manchester City;Médio;1.78;78.0;83;8
+1048;Marcelo Brozović;Croácia;Al-Nassr;Médio;1.81;68.0;83;11
+1049;Lovro Majer;Croácia;Wolfsburg;Médio;1.79;76.0;79;7
+1050;Mario Pašalić;Croácia;Atalanta;Médio;1.88;82.0;80;15
+1051;Luka Ivanušec;Croácia;Feyenoord;Médio;1.75;71.0;77;16
+1052;Nikola Vlašić;Croácia;Torino;Médio;1.78;79.0;78;13
+1053;Luka Sučić;Croácia;RB Salzburg;Médio;1.85;74.0;76;20
+1054;Andrej Kramarić;Croácia;Hoffenheim;Avançado;1.77;73.0;81;9
+1055;Bruno Petković;Croácia;Dinamo Zagreb;Avançado;1.93;88.0;78;17
+1056;Ante Budimir;Croácia;Osasuna;Avançado;1.90;80.0;78;14
+1057;Marko Pjaca;Croácia;Rijeka;Avançado;1.86;83.0;75;18
+1058;Ivan Perišić;Croácia;Hajduk Split;Avançado;1.86;80.0;80;14
+1059;Stanley Nwabali;Nigéria;Chippa United;Guarda-Redes;1.96;85.0;74;1
+1060;Francis Uzoho;Nigéria;Omonia;Guarda-Redes;1.96;88.0;72;23
+1061;Maduka Okoye;Nigéria;Udinese;Guarda-Redes;1.97;86.0;73;16
+1062;William Troost-Ekong;Nigéria;PAOK;Defesa;1.91;82.0;76;5
+1063;Semi Ajayi;Nigéria;West Bromwich;Defesa;1.93;84.0;74;6
+1064;Calvin Bassey;Nigéria;Fulham;Defesa;1.85;76.0;77;21
+1065;Kenneth Omeruo;Nigéria;Kasımpaşa;Defesa;1.85;81.0;73;22
+1066;Ola Aina;Nigéria;Nottingham Forest;Defesa;1.84;80.0;76;2
+1067;Bright Osayi-Samuel;Nigéria;Fenerbahçe;Defesa;1.75;72.0;75;12
+1068;Zaidu Sanusi;Nigéria;Porto;Defesa;1.76;70.0;75;3
+1069;Bruno Onyemaechi;Nigéria;Boavista;Defesa;1.83;78.0;72;20
+1070;Wilfred Ndidi;Nigéria;Leicester City;Médio;1.83;74.0;79;4
+1071;Frank Onyeka;Nigéria;Brentford;Médio;1.83;70.0;75;8
+1072;Alex Iwobi;Nigéria;Fulham;Médio;1.85;75.0;77;17
+1073;Joe Aribo;Nigéria;Southampton;Médio;1.83;76.0;75;10
+1074;Alhassan Yusuf;Nigéria;Antwerp;Médio;1.75;70.0;73;25
+1075;Victor Osimhen;Nigéria;Napoli;Avançado;1.85;78.0;87;9
+1076;Ademola Lookman;Nigéria;Atalanta;Avançado;1.74;71.0;81;11
+1077;Samuel Chukwueze;Nigéria;Milan;Avançado;1.72;70.0;79;13
+1078;Moses Simon;Nigéria;Nantes;Avançado;1.68;66.0;76;15
+1079;Kelechi Iheanacho;Nigéria;Leicester City;Avançado;1.85;82.0;76;14
+1080;Terem Moffi;Nigéria;Nice;Avançado;1.88;82.0;78;19
+1081;Victor Boniface;Nigéria;Bayer Leverkusen;Avançado;1.90;85.0;81;24
+1082;Orlando Mosquera;Panamá;Maccabi Tel Aviv;Guarda-Redes;1.91;86.0;71;1
+1083;Luis Mejía;Panamá;Nacional;Guarda-Redes;1.91;84.0;70;12
+1084;César Samudio;Panamá;Marathón;Guarda-Redes;1.88;82.0;68;22
+1085;Fidel Escobar;Panamá;Saprissa;Defesa;1.81;80.0;73;4
+1086;José Córdoba;Panamá;Levski Sofia;Defesa;1.87;81.0;72;3
+1087;Andrés Andrade;Panamá;LASK;Defesa;1.87;78.0;71;16
+1088;Harold Cummings;Panamá;Xelajú;Defesa;1.83;85.0;69;5
+1089;Michael Amir Murillo;Panamá;Marselha;Defesa;1.83;76.0;75;23
+1090;César Blackman;Panamá;Slovan Bratislava;Defesa;1.74;71.0;70;2
+1091;Eric Davis;Panamá;Kocaelispor;Defesa;1.80;78.0;71;15
+1092;Carlos Harvey;Panamá;Minnesota United;Defesa;1.84;76.0;68;21
+1093;Aníbal Godoy;Panamá;Nashville SC;Médio;1.83;82.0;72;20
+1094;Adalberto Carrasquilla;Panamá;Houston Dynamo;Médio;1.70;68.0;74;8
+1095;Cristian Martínez;Panamá;Al Jandal;Médio;1.78;73.0;69;6
+1096;Jovani Welch;Panamá;Académico de Viseu;Médio;1.82;75.0;67;19
+1097;Abdiel Ayarza;Panamá;Cienciano;Médio;1.91;86.0;68;14
+1098;Édgar Bárcenas;Panamá;Mazatlán;Avançado;1.74;72.0;73;10
+1099;José Luis Rodríguez;Panamá;Famalicão;Avançado;1.80;76.0;72;7
+1100;Cecilio Waterman;Panamá;Alianza Lima;Avançado;1.81;78.0;71;18
+1101;José Fajardo;Panamá;Universidad Católica;Avançado;1.84;80.0;70;17
+1102;Ismael Díaz;Panamá;Universidad Católica;Avançado;1.83;76.0;71;11
+1103;Eduardo Guerrero;Panamá;Zorya Luhansk;Avançado;1.80;72.0;69;9
+1104;Freddy Góndola;Panamá;Maccabi Bnei Reineh;Avançado;1.86;82.0;68;24

@@ -1,0 +1,39 @@
+1;Camino Real Polanco;Cidade do México;Mariano Escobedo 700;350
+2;Hyatt Regency Mexico City;Cidade do México;Campos Elíseos 204;280
+3;St. Regis Mexico City;Cidade do México;Paseo de la Reforma 439;200
+4;Hilton Meadowlands;East Rutherford;Two Stadium Plaza;400
+5;Renaissance Meadowlands Hotel;East Rutherford;801 Rutherford Ave;200
+6;Residence Inn by Marriott;East Rutherford;10 Murray Hill Pkwy;150
+7;Live! by Loews;Arlington;1600 E Randol Mill Rd;300
+8;Sheraton Arlington Hotel;Arlington;1500 Convention Center Dr;250
+9;Courtyard by Marriott Arlington;Arlington;1500 Nolan Ryan Expy;180
+10;Hollywood Park Casino Hotel;Inglewood;3883 W Century Blvd;250
+11;Sonder Lüm;Inglewood;3900 W Century Blvd;150
+12;The Westin LAX (Inglewood);Inglewood;5400 W Century Blvd;300
+13;Omni Atlanta Hotel;Atlanta;100 CNN Center;500
+14;The Ritz-Carlton Atlanta;Atlanta;165 Peachtree St NE;300
+15;Signia by Hilton;Atlanta;159 Northside Dr NW;400
+16;Blossom Hotel Houston;Houston;7118 Bertner Ave;250
+17;The Post Oak Hotel;Houston;1600 W Loop S;200
+18;Hilton Americas-Houston;Houston;1600 Lamar St;500
+19;Courtyard Philadelphia South;Philadelphia;1001 Intrepid Ave;180
+20;Four Seasons Philadelphia;Philadelphia;1 N 19th St;220
+21;The Ritz-Carlton Philadelphia;Philadelphia;10 Ave Of The Arts;250
+22;Silver Cloud Hotel;Seattle;1046 1st Ave S;200
+23;Fairmont Olympic Hotel;Seattle;411 University St;350
+24;Four Seasons Seattle;Seattle;99 Union St;150
+25;JW Marriott Parq Vancouver;Vancouver;39 Smithe St;300
+26;Fairmont Pacific Rim;Vancouver;1038 Canada Pl;350
+27;Rosewood Hotel Georgia;Vancouver;801 W Georgia St;150
+28;Hotel X Toronto;Toronto;111 Princes' Blvd;400
+29;Fairmont Royal York;Toronto;100 Front St W;500
+30;The Ritz-Carlton Toronto;Toronto;181 Wellington St W;250
+31;Holiday Inn Monterrey Valle;Guadalupe;Av. Lázaro Cárdenas;200
+32;City Express by Marriott Lindavista;Guadalupe;Av. Miguel Alemán;150
+33;Four Points by Sheraton;Guadalupe;Av. Insurgentes;180
+34;Hard Rock Hotel Guadalajara;Zapopan;Av. Vallarta 5145;300
+35;Hyatt Regency Andares;Zapopan;Blvd. Puerta de Hierro;250
+36;Wyndham Garden Acueducto;Zapopan;Av. Real Acueducto;200
+37;Vila Vita Parc Resort;Armação de Pera;Rua Anneliese Pohl;150
+38;Holiday Inn Algarve;Armação de Pera;Avenida Marginal;200
+39;Pestana Viking Beach Resort;Armação de Pera;Praia da Senhora da Rocha;180

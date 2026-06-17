@@ -1,0 +1,10 @@
+# Ficheiros do IntelliJ
+.idea/
+*.iml
+out/
+build/
+bin/
+
+# Ficheiros do SO
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+1;Estadio Azteca;Cidade do México;87523
+2;MetLife Stadium;East Rutherford;82500
+3;AT&T Stadium;Arlington;80000
+4;SoFi Stadium;Inglewood;70240
+5;Mercedes-Benz Stadium;Atlanta;71000
+6;NRG Stadium;Houston;72220
+7;Lincoln Financial Field;Philadelphia;67594
+8;Lumen Field;Seattle;69000
+9;BC Place;Vancouver;54500
+10;BMO Field;Toronto;30000
+11;Estadio BBVA;Guadalupe;53500
+12;Estadio Akron;Zapopan;49850
+13;Estádio do Armacenense;Armação de Pera;3000
