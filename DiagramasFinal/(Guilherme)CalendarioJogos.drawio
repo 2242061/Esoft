@@ -1,0 +1,228 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="iNSzNGSeRPThtF1II10W">
+    <mxGraphModel dx="1144" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="1000" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mundial 2026" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-7" edge="1" parent="1" source="ig6d69P2LdZAZRiHEnW5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ig6d69P2LdZAZRiHEnW5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mundial 2026" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Página Calendário" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-10" edge="1" parent="1" source="ig6d69P2LdZAZRiHEnW5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ig6d69P2LdZAZRiHEnW5-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="830" />
+              <mxPoint x="540" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Página Calendário" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-13" edge="1" parent="1" source="ig6d69P2LdZAZRiHEnW5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ig6d69P2LdZAZRiHEnW5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jogo" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jogo" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-94" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-95" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="319" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-96" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-97" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="320" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-98" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-99" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-100" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="480" as="sourcePoint" />
+            <mxPoint x="770" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-101" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="770" y="560" as="sourcePoint" />
+            <mxPoint x="540" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-102" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="600" as="sourcePoint" />
+            <mxPoint x="120" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-103" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="640" as="sourcePoint" />
+            <mxPoint x="540" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-104" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="680" as="sourcePoint" />
+            <mxPoint x="770" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-105" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="720" as="sourcePoint" />
+            <mxPoint x="120" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-107" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="840" as="sourcePoint" />
+            <mxPoint x="120" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-108" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="920" as="sourcePoint" />
+            <mxPoint x="120" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. Seleciona opção &quot;Calendários&quot;" vertex="1">
+          <mxGeometry height="30" width="190" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. Abrir página de Calendário" vertex="1">
+          <mxGeometry height="30" width="230" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3. Obter jogos Registados" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-112" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="800" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-113" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="800" y="1000" as="sourcePoint" />
+            <mxPoint x="800" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-114" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="1000" as="sourcePoint" />
+            <mxPoint x="800" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-115" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="1000" as="sourcePoint" />
+            <mxPoint x="80" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.1. Devolve lista de jogos" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5. Filtrar Jogos" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.1. Devolve Jogos FIltrados" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7. Obter detalhes do jogo" vertex="1">
+          <mxGeometry height="30" width="230" x="540" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.2 Apresenta calendário de Jogos" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. Pesquisa ou aplica filtro" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.2. Apresenta Resultados" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Seleciona Jogo" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7.1. Apresenta Detalhes" vertex="1">
+          <mxGeometry height="30" width="650" x="120" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4.1. Mostra mensagem &quot;Nenhum Jogo Encontrado&quot;" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.1 mostra mensgem &quot;Sem Jogos disponoveis&quot;" vertex="1">
+          <mxGeometry height="30" width="420" x="120" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-130" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="870" as="sourcePoint" />
+            <mxPoint x="803" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-131" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="803" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Sem Resultado]" vertex="1">
+          <mxGeometry height="30" width="130" x="410" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Sem Jogo]" vertex="1">
+          <mxGeometry height="30" width="100" x="580" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ig6d69P2LdZAZRiHEnW5-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[Existem Jogos]" vertex="1">
+          <mxGeometry height="30" width="120" x="370" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4XqAvEB8ZZhflk4x4OOD-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;p&gt;Caso de Uso: Consultar Calendário de Jogos&lt;/p&gt;&lt;p&gt;Ator Principal:&lt;br&gt;Utilizador&lt;/p&gt;&lt;p&gt;Atores Secundários:&lt;br&gt;Sistema Mundial 2026&lt;br&gt;Página Calendário&lt;br&gt;Jogo&lt;/p&gt;&lt;p&gt;Descrição:&lt;br&gt;Este caso de uso permite ao Utilizador consultar o calendário de jogos registados no sistema Mundial 2026. O Utilizador seleciona a opção &quot;Calendário&quot;, o sistema abre a página correspondente e obtém a lista de jogos registados. Caso existam jogos, estes são apresentados no calendário. O Utilizador pode ainda pesquisar ou aplicar filtros para encontrar jogos específicos e selecionar um jogo para consultar os respetivos detalhes.&lt;/p&gt;&lt;p&gt;Pré-condições:&lt;br&gt;O Utilizador tem de ter acesso ao sistema Mundial 2026.&lt;br&gt;A página de calendário tem de estar disponível.&lt;br&gt;Tem de existir informação sobre jogos registados no sistema.&lt;br&gt;Os dados dos jogos devem estar atualizados.&lt;/p&gt;&lt;p&gt;Fluxo Principal:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;O Utilizador seleciona a opção &quot;Calendário&quot;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema abre a página de calendário.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém a lista de jogos registados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica se existem jogos disponíveis.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema devolve a lista de jogos registados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta o calendário de jogos ao Utilizador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Utilizador pesquisa ou aplica um filtro.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema filtra os jogos de acordo com os critérios definidos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema devolve os jogos filtrados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta os resultados da pesquisa ou filtro.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Utilizador seleciona um jogo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém os detalhes do jogo selecionado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta os detalhes do jogo ao Utilizador.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Fluxos Alternativos:&lt;br&gt;A1 — Sem jogos disponíveis:&lt;br&gt;Se não existirem jogos registados no sistema, o sistema apresenta a mensagem &quot;Sem jogos disponíveis&quot; e não apresenta qualquer calendário com jogos.&lt;/p&gt;&lt;p&gt;A2 — Nenhum jogo encontrado:&lt;br&gt;Se o Utilizador pesquisar ou aplicar um filtro e não existir nenhum jogo correspondente aos critérios definidos, o sistema apresenta a mensagem &quot;Nenhum jogo encontrado&quot;.&lt;/p&gt;&lt;p&gt;A3 — Jogo sem resultado:&lt;br&gt;Se o jogo selecionado ainda não tiver resultado registado, o sistema apresenta os detalhes disponíveis do jogo, como equipas, data, hora e local, mas indica que o resultado ainda não está disponível.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="510" width="360" x="960" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

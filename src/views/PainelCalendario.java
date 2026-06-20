@@ -52,6 +52,8 @@ public class PainelCalendario {
         painelTopo.add(pnlTitulos, BorderLayout.WEST);
 
         JButton btnAgendar = criarBotaoRedondo("+ Agendar Novo Jogo", COR_ROXO, Color.WHITE);
+
+        btnAgendar.setVisible(CentralDeDados.getInstance().isAdmin());
         btnAgendar.addActionListener(e -> abrirDialogoNovoJogo());
 
         JPanel pnlBotaoTopo = new JPanel(new FlowLayout(FlowLayout.RIGHT, 0, 10));
@@ -312,6 +314,7 @@ public class PainelCalendario {
 
             // Só mostra bilhetes se não tiver terminado
             JButton btnBilhetes = criarBotaoRedondo("Bilhetes", new Color(40, 42, 54), Color.WHITE);
+            btnBilhetes.setVisible(CentralDeDados.getInstance().isAdmin());
             btnBilhetes.addActionListener(e -> JOptionPane.showMessageDialog(painelPrincipal, "Estatísticas de bilhetes vendidos (em breve)."));
             pnlAcoes.add(btnBilhetes);
 
@@ -328,6 +331,7 @@ public class PainelCalendario {
             pnlAcoes.add(btnRelatorio);
 
             JButton btnBilhetes = criarBotaoRedondo("Estat. Bilhetes", new Color(40, 42, 54), Color.WHITE);
+            btnBilhetes.setVisible(CentralDeDados.getInstance().isAdmin());
             btnBilhetes.addActionListener(e -> JOptionPane.showMessageDialog(painelPrincipal, "Estatísticas finais de bilheteira (em breve)."));
             pnlAcoes.add(btnBilhetes);
         }

@@ -24,40 +24,50 @@ public class JanelaLogin {
             System.out.println("ERRO: Não foi possível encontrar a imagem em /imagens/icone.png");
         }
         // Ação do botão ENTRAR
-
         btnLogin.addActionListener(e -> {
             String emailInserido = txtUsername.getText();
             String passwordInserida = new String(txtPassword.getPassword());
 
             Utilizador utilizadorLogado = null;
 
-            // Procura na base de dados
             for (Utilizador u : service.CentralDeDados.getInstance().getUtilizadores()) {
-                if (u.autenticar(emailInserido, passwordInserida)) {
+                if (u.getEmail().equals(emailInserido) && u.getPassword().equals(passwordInserida)) {
                     utilizadorLogado = u;
+
+                    // ADICIONA ESTA LINHA:
+                    service.CentralDeDados.getInstance().setUtilizadorLogado(u);
+
                     break;
                 }
             }
 
             if (utilizadorLogado != null) {
-                // Se a conta for de ADMIN, abre o Dashboard
-                if (utilizadorLogado.isAdmin()) {
-                    JFrame frameAtual = (JFrame) SwingUtilities.getWindowAncestor(painelPrincipal);
-                    if (frameAtual != null) frameAtual.dispose();
+                // Fecha a janela de login atual
+                JFrame frameAtual = (JFrame) SwingUtilities.getWindowAncestor(painelPrincipal);
+                if (frameAtual != null) frameAtual.dispose();
 
-                    JFrame frameMenu = new JFrame("Sistema Mundial 2026 - Dashboard");
-                    frameMenu.setContentPane(new MenuPrincipal().getPainelPrincipal());
-                    frameMenu.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-                    frameMenu.setSize(1100, 700);
-                    frameMenu.setLocationRelativeTo(null);
-                    frameMenu.setVisible(true);
+                // VERIFICA O TIPO DE UTILIZADOR
+                if (utilizadorLogado.getTipo().equalsIgnoreCase("ADMIN")) {
+                    // Abre o Menu de Admin (O teu MenuPrincipal atual)
+                    JFrame frameAdmin = new JFrame("Mundial 2026 - Painel de Administração");
+                    frameAdmin.setContentPane(new MenuPrincipal().getPainelPrincipal());
+                    frameAdmin.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                    frameAdmin.pack();
+                    frameAdmin.setLocationRelativeTo(null);
+                    frameAdmin.setVisible(true);
+                } else {
+                    // Abre o Menu de Utilizador normal
+                    JFrame frameUser = new JFrame("Mundial 2026 - Área do Adepto");
+                    frameUser.setContentPane(new MenuUtilizador().getPainelPrincipal());
+                    frameUser.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                    frameUser.pack();
+                    frameUser.setSize(1200, 800); // Tamanho por defeito
+                    frameUser.setLocationRelativeTo(null);
+                    frameUser.setVisible(true);
                 }
-                // Se for uma conta normal (USER), mostra a mensagem
-                else {
-                    JOptionPane.showMessageDialog(painelPrincipal, "Página cliente em progresso...", "Área de Cliente", JOptionPane.INFORMATION_MESSAGE);
-                }
+
             } else {
-                JOptionPane.showMessageDialog(painelPrincipal, "Email ou password incorretos.", "Erro", JOptionPane.ERROR_MESSAGE);
+                JOptionPane.showMessageDialog(painelPrincipal, "Email ou Password incorretos!", "Erro de Login", JOptionPane.ERROR_MESSAGE);
             }
         });
 

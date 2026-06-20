@@ -9,7 +9,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class CentralDeDados {
 
@@ -18,6 +20,9 @@ public class CentralDeDados {
     // ==========================================
     private static CentralDeDados instanciaUnica;
 
+
+    private Utilizador utilizadorLogado; // Guarda quem fez login
+    private List<Eliminatoria> listaEliminatorias = new ArrayList<>();
     private List<Equipa> equipas;
     private List<Estadio> estadios;
     private List<Jogo> jogos;
@@ -26,7 +31,6 @@ public class CentralDeDados {
     private List<Arbitro> arbitros;
     private List<Utilizador> utilizadores;
     private List<Alojamento> alojamentos;
-    private List<Eliminatoria> listaEliminatorias;
 
 
     private final String FICHEIRO_JOGADORES = "jogadores.txt";
@@ -367,6 +371,41 @@ public class CentralDeDados {
         }
         return melhor;
     }
+    public int getTotalAssistencias(int id) {
+        int total = 0;
+        for (EstatisticaJogador e : estatisticas) {
+            if (e.getJogador().getId() == id) total += e.getAssistencias();
+        }
+        return total;
+    }
+
+    // Descobre o jogador com mais assistências
+    public Jogador getMelhorAssistente() {
+        Jogador melhor = null;
+        int maxAssist = -1;
+        for (Jogador j : jogadores) {
+            int assist = getTotalAssistencias(j.getId());
+            if (assist > maxAssist && assist > 0) { // Só conta se tiver pelo menos 1
+                maxAssist = assist;
+                melhor = j;
+            }
+        }
+        return melhor;
+    }
+
+    // Descobre o jogador com mais amarelos
+    public Jogador getJogadorMaisAgressivo() {
+        Jogador pior = null;
+        int maxAmarelos = -1;
+        for (Jogador j : jogadores) {
+            int amarelos = getTotalAmarelos(j.getId()); // Tu já tinhas este método!
+            if (amarelos > maxAmarelos && amarelos > 0) {
+                maxAmarelos = amarelos;
+                pior = j;
+            }
+        }
+        return pior;
+    }
 
     public Jogo getProximoJogo() {
         for (Jogo j : jogos) {
@@ -411,8 +450,116 @@ public class CentralDeDados {
         }
     }
 
+    public List<Eliminatoria> getListaEliminatorias() {
+        return listaEliminatorias;
+    }
+
+    public boolean isFaseGruposConcluida() {
+        if (jogos.isEmpty()) return false;
+
+        for (Jogo jogo : jogos) {
+            // IDs menores que 1000 são da fase de grupos.
+            if (jogo.getId() < 1000) {
+                // Em vez de confiar no "isTerminado()", verificamos se existe resultado no ficheiro!
+                if (getResultadoJogo(jogo.getId()) == null) {
+                    // Isto imprime na consola qual é o jogo que o sistema acha que falta, para te ajudar
+                    System.out.println("O sistema bloqueou porque falta o resultado do jogo ID: " + jogo.getId());
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
 
 
+    public void gerarDezasseisAvosDeFinal() {
+        listaEliminatorias.clear();
+
+        // Arrays para guardar as stats temporárias: [0] = Pontos, [1] = Saldo, [2] = Marcados
+        java.util.Map<Integer, int[]> stats = new java.util.HashMap<>();
+        for (Equipa e : equipas) stats.put(e.getId(), new int[]{0, 0, 0});
+
+        // 1. LER OS RESULTADOS EXATAMENTE COMO NO PAINEL GRUPOS
+        try (java.io.BufferedReader br = new java.io.BufferedReader(new java.io.FileReader("resultados.txt"))) {
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                String[] p = linha.split(";");
+                if (p.length < 3) continue;
+                int idJogo = Integer.parseInt(p[0]);
+                int gc = Integer.parseInt(p[1]);
+                int gf = Integer.parseInt(p[2]);
+
+                for (Jogo j : jogos) {
+                    if (j.getId() == idJogo) {
+                        int idCasa = j.getEquipaCasa().getId();
+                        int idFora = j.getEquipaFora().getId();
+
+                        int[] sCasa = stats.get(idCasa);
+                        int[] sFora = stats.get(idFora);
+
+                        sCasa[1] += (gc - gf); // Saldo
+                        sFora[1] += (gf - gc); // Saldo
+                        sCasa[2] += gc;        // Marcados
+                        sFora[2] += gf;        // Marcados
+
+                        if (gc > gf) sCasa[0] += 3;
+                        else if (gc < gf) sFora[0] += 3;
+                        else { sCasa[0] += 1; sFora[0] += 1; }
+                    }
+                }
+            }
+        } catch (Exception e) {
+            System.out.println("Erro ao ler resultados: " + e.getMessage());
+        }
+
+        // 2. CRUZAMENTOS DO SORTEIO (8 Jogos = 16 Equipas)
+        String[][] cruzamentos = {
+                {"A", "B"}, {"C", "D"}, {"E", "F"}, {"G", "H"},
+                {"I", "J"}, {"K", "L"}, {"B", "A"}, {"D", "C"}
+        };
+
+        int idElim = 1000;
+        for (String[] par : cruzamentos) {
+            java.util.List<Equipa> g1 = new java.util.ArrayList<>();
+            java.util.List<Equipa> g2 = new java.util.ArrayList<>();
+
+            for (Equipa e : equipas) {
+                if (e.getGrupo().equals(par[0])) g1.add(e);
+                if (e.getGrupo().equals(par[1])) g2.add(e);
+            }
+
+            // LÓGICA DE DESEMPATE ABSOLUTA
+            java.util.Comparator<Equipa> comp = (e1, e2) -> {
+                int[] st1 = stats.get(e1.getId());
+                int[] st2 = stats.get(e2.getId());
+                if (st1[0] != st2[0]) return Integer.compare(st2[0], st1[0]); // Pontos
+                if (st1[1] != st2[1]) return Integer.compare(st2[1], st1[1]); // Saldo Golos
+                return Integer.compare(st2[2], st1[2]);                       // Golos Marcados
+            };
+
+            g1.sort(comp);
+            g2.sort(comp);
+
+            if (!g1.isEmpty() && g2.size() >= 2) {
+                Equipa primeiro = g1.get(0);
+                Equipa segundo = g2.get(1);
+
+                idElim++;
+                Jogo j = new Jogo(idElim, primeiro, segundo, estadios.get(0), "28/06/2026", "20:00");
+                listaEliminatorias.add(new Eliminatoria(idElim, "Oitavos", j));
+            }
+        }
+    }
+
+
+
+    public void setUtilizadorLogado(Utilizador u) {
+        this.utilizadorLogado = u;
+    }
+    public boolean isAdmin() {
+        if (utilizadorLogado == null) return false;
+        return utilizadorLogado.getTipo().equalsIgnoreCase("ADMIN");
+    }
 
 
 

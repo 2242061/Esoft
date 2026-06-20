@@ -60,7 +60,6 @@ public class MenuPrincipal {
                 painelConteudo.repaint();
             }
         });
-
         //ESTATISTICAS
         estatisticasButton.addActionListener(e -> {
             painelConteudo.removeAll();
@@ -76,7 +75,6 @@ public class MenuPrincipal {
             painelConteudo.revalidate();
             painelConteudo.repaint();
         });
-
         //CALENDÁRIO
         calendarioButton.addActionListener(e -> {
             painelConteudo.removeAll();
@@ -102,9 +100,11 @@ public class MenuPrincipal {
         });
         //ELIMINATORIAS
         eliminatoriaButton.addActionListener(e -> {
-
             painelConteudo.removeAll();
-            painelConteudo.add(new PainelEliminatorias().getPainelPrincipal(), BorderLayout.CENTER);
+            painelConteudo.add(
+                    new PainelEliminatorias(true).getPainelPrincipal(),
+                    BorderLayout.CENTER
+            );
             painelConteudo.revalidate();
             painelConteudo.repaint();
         });
@@ -116,27 +116,31 @@ public class MenuPrincipal {
         painelDashboard.setBackground(new Color(18, 19, 25));
         painelDashboard.setBorder(new EmptyBorder(20, 20, 20, 20));
 
-        // A. Linha de Cima: 2 Cards Grandes
-        JPanel linhaCima = new JPanel(new GridLayout(1, 2, 20, 0));
-        linhaCima.setOpaque(false);
-        linhaCima.add(criarCardGrande("JOGO COM MAIOR PROFIT", "Portugal vs Espanha\n€ 150.000"));
-        linhaCima.add(criarCardGrande("VENDAS TOTAIS", "Total: € 2.500.000\nBilhetes vendidos: 45.000"));
-
-        // B. Linha de Baixo: 3 Cards Pequenos
-        JPanel linhaBaixo = new JPanel(new GridLayout(1, 3, 20, 0));
-        linhaBaixo.setOpaque(false);
         CentralDeDados bd = CentralDeDados.getInstance();
-
         Jogo j = bd.getProximoJogo();
         Jogador m = bd.getMelhorMarcador();
         Estadio e = bd.getMaiorEstadio();
 
-        linhaBaixo.add(criarCardPequeno("PRÓXIMO JOGO",
-                "<html><center>" + (j != null ? j.getEquipaCasa().getNome() + " vs " + j.getEquipaFora().getNome()+ "<br>"+j.getData()+" - "+j.getHora(): "Sem jogos") + "</center></html>"));
-
-        linhaBaixo.add(criarCardPequeno("MELHOR MARCADOR",
+        // A. Linha de Cima: 2 Cards Grandes
+        JPanel linhaCima = new JPanel(new GridLayout(1, 2, 20, 0));
+        linhaCima.setOpaque(false);
+        linhaCima.add(criarCardGrande("MELHOR MARCADOR",
                 "<html><center>" + (m != null ? m.getNumeroCamisola()+" - "+m.getNome() + "("+ m.getPais()+ ")<br>Golos: " + bd.getTotalGolos(m.getId()) : "Sem dados") + "</center></html>"));
 
+        linhaCima.add(criarCardGrande("PRÓXIMO JOGO",
+                "<html><center>" + (j != null ? j.getEquipaCasa().getNome() + " vs " + j.getEquipaFora().getNome()+ "<br>"+j.getData()+" - "+j.getHora(): "Sem jogos") + "</center></html>"));
+
+        // B. Linha de Baixo: 3 Cards Pequenos
+        JPanel linhaBaixo = new JPanel(new GridLayout(1, 3, 20, 0));
+        linhaBaixo.setOpaque(false);
+
+
+        Jogador assistente = bd.getMelhorAssistente();
+        linhaBaixo.add(criarCardPequeno("REI DAS ASSISTÊNCIAS",
+                "<html><center>" + (assistente != null ? assistente.getNome() + " (" + assistente.getPais() + ")<br>Assistências: " + bd.getTotalAssistencias(assistente.getId()) : "Sem dados") + "</center></html>"));
+        Jogador agressivo = bd.getJogadorMaisAgressivo();
+        linhaBaixo.add(criarCardPequeno("MAIS CARTÕES",
+                "<html><center>" + (agressivo != null ? agressivo.getNome() + " (" + agressivo.getPais() + ")<br>Amarelos: " + bd.getTotalAmarelos(agressivo.getId()) : "Sem dados") + "</center></html>"));
         linhaBaixo.add(criarCardPequeno("MAIOR ESTÁDIO",
                 "<html><center>" + (e != null ? e.getNome() +"<br>"+ e.getCidade()+ "<br>Capacidade: " + e.getCapacidade() : "Sem dados") + "</center></html>")); // Adiciona as linhas ao painel principal
         painelDashboard.add(linhaCima, BorderLayout.CENTER);
@@ -165,7 +169,7 @@ public class MenuPrincipal {
 
     private JPanel criarCardPequeno(String titulo, String info) {
         JPanel card = new JPanel(new BorderLayout());
-        card.setBackground(Color.WHITE); // Manter branco para contraste
+        card.setBackground(Color.WHITE);
         card.setPreferredSize(new Dimension(200, 120));
 
         JLabel t = new JLabel(titulo, SwingConstants.CENTER);
@@ -177,16 +181,15 @@ public class MenuPrincipal {
         card.add(t, BorderLayout.NORTH);
         card.add(i, BorderLayout.CENTER);
         return card;
-    }private void estilizarBotaoMenu(JButton btn) {
+    }
+    private void estilizarBotaoMenu(JButton btn) {
         btn.setBorderPainted(false);
         btn.setFocusPainted(false);
         btn.setOpaque(true);
 
-        // AS 2 LINHAS MÁGICAS PARA PARAR O "TREMOR" E AUMENTO:
         btn.setRolloverEnabled(false); // Desliga os efeitos nativos do Windows/Mac
         btn.setBorder(BorderFactory.createEmptyBorder(10, 20, 10, 20)); // Fixa o tamanho da margem para sempre
 
-        // Cores base do botão
         btn.setBackground(Color.WHITE);
         btn.setForeground(Color.BLACK);
         btn.setCursor(new Cursor(Cursor.HAND_CURSOR));

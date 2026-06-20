@@ -155,11 +155,11 @@ public class PainelEquipaPerfil {
         scrollPlantel.getViewport().setBackground(new Color(35, 36, 38));
         painelPlantel.add(scrollPlantel, BorderLayout.CENTER);
 
-        // BOTÃO DE ADICIONAR JOGADOR (NOVIDADE!)
         JPanel painelAcoesPlantel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
         painelAcoesPlantel.setBackground(new Color(35, 36, 38));
 
         JButton btnAdicionarJogador = new JButton("+ Adicionar Convocado");
+        btnAdicionarJogador.setVisible(CentralDeDados.getInstance().isAdmin());
         btnAdicionarJogador.setBackground(new Color(240, 240, 240));
         btnAdicionarJogador.setForeground(new Color(25, 26, 28));
         btnAdicionarJogador.setFont(new Font("Arial", Font.BOLD, 12));

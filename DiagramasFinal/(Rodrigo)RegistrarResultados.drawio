@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="fD2P74hcAk4QBIoeV1eU">
+    <mxGraphModel dx="2575" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-123" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Administrador" vertex="1">
+          <mxGeometry height="1946" width="35" x="409" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-124" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Mundial 2026" vertex="1">
+          <mxGeometry height="1946" width="150" x="667" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-125" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Gestão de Jogos" vertex="1">
+          <mxGeometry height="1946" width="150" x="910" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-126" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Jogo" vertex="1">
+          <mxGeometry height="1946" width="150" x="1187" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-127" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Grupo" vertex="1">
+          <mxGeometry height="1946" width="150" x="1387" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-128" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Classificação" vertex="1">
+          <mxGeometry height="1946" width="150" x="1726" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-129" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="750" width="1339" x="473" y="1121" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-130" parent="Es-sxoCL0kwwbF76wbxi-129" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Resultado válido e jogo sem resultado]" vertex="1">
+          <mxGeometry height="20" width="1309" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-131" parent="Es-sxoCL0kwwbF76wbxi-129" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Jogo inexistente]" vertex="1">
+          <mxGeometry height="4" width="1339" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-132" parent="Es-sxoCL0kwwbF76wbxi-129" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Resultado inválido]" vertex="1">
+          <mxGeometry height="4" width="1339" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-133" parent="Es-sxoCL0kwwbF76wbxi-129" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Resultado já registado]" vertex="1">
+          <mxGeometry height="4" width="1339" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-134" parent="Es-sxoCL0kwwbF76wbxi-129" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Operação cancelada]" vertex="1">
+          <mxGeometry height="4" width="1339" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-135" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-123" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-124" value="1: inicia sessão">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-136" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-124" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="1.1: autenticação validada">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-137" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-123" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-124" value="2: acede à gestão de jogos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-138" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-124" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="3: carregar lista de jogos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-139" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="3.1: apresenta jogos registados">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="707" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-140" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-123" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="4: seleciona jogo">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-141" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-126" value="5: obter detalhes do jogo">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1132" y="811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-142" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-126" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="5.1: devolve detalhes do jogo">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-143" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="5.2: apresenta equipas, estádio, data e hora">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-144" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-123" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="6: introduz resultado final">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-145" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-123" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="7: confirma registo">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="743" y="1019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-146" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="curved=1;endArrow=block;rounded=0;" target="Es-sxoCL0kwwbF76wbxi-125" value="8: validar resultado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1036" y="1071" />
+              <mxPoint x="1036" y="1101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-147" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-126" value="9: registar resultado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1132" y="1199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-148" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-126" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="9.1: resultado guardado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="1251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-149" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-127" value="10: identificar grupo das equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1232" y="1303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-150" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-127" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-128" value="10.1: atualizar pontos, golos e posição">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="1355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-151" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-128" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-125" value="10.2: classificação atualizada">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1405" y="1407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-152" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="11: apresenta mensagem de sucesso">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-153" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="4.1: mostra erro &quot;Jogo inexistente&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1557" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-154" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="6.1: mostra erro &quot;Resultado inválido&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-155" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="8.1: mostra erro &quot;Este jogo já tem resultado&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-156" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-125" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-123" value="7.1: fecha janela sem guardar">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IqAG7SKJYIXSIulWmdpC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;Caso de Uso: Registar Resultado de Jogo&lt;/p&gt;&lt;p&gt;Ator Principal:&lt;br&gt;Administrador&lt;/p&gt;&lt;p&gt;Atores Secundários:&lt;br&gt;Sistema Mundial 2026&lt;br&gt;Gestão de Jogos&lt;br&gt;Classificação&lt;/p&gt;&lt;p&gt;Descrição:&lt;br&gt;Este caso de uso permite ao Administrador registar o resultado final de um jogo no sistema Mundial 2026. O Administrador acede à área de gestão de jogos, seleciona o jogo pretendido, consulta os respetivos detalhes e introduz o resultado final. Após a confirmação, o sistema valida os dados inseridos, guarda o resultado do jogo e atualiza automaticamente a classificação do grupo, incluindo pontos, golos e posição das equipas.&lt;/p&gt;&lt;p&gt;Pré-condições:&lt;br&gt;O Administrador tem de estar autenticado no sistema.&lt;br&gt;O jogo tem de estar previamente criado no sistema.&lt;br&gt;O jogo selecionado tem de existir.&lt;br&gt;O jogo não pode ter um resultado já registado.&lt;br&gt;O resultado introduzido tem de ser válido.&lt;/p&gt;&lt;p&gt;Fluxo Principal:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;O Administrador inicia sessão no sistema.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema valida a autenticação do Administrador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador acede à área de gestão de jogos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema carrega a lista de jogos registados.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta ao Administrador a lista de jogos disponíveis.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador seleciona o jogo pretendido.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém os detalhes do jogo selecionado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta os dados do jogo, incluindo equipas, estádio, data e hora.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador introduz o resultado final do jogo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador confirma o registo do resultado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema valida o resultado introduzido.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema regista o resultado do jogo.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema guarda o resultado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema identifica o grupo das equipas envolvidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema atualiza a classificação, incluindo pontos, golos e posição.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta uma mensagem de sucesso ao Administrador.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Fluxos Alternativos:&lt;br&gt;A1 — Jogo inexistente:&lt;br&gt;Se o Administrador selecionar um jogo que não existe ou que já não se encontra disponível no sistema, o sistema apresenta a mensagem de erro &quot;Jogo inexistente&quot; e impede o registo do resultado.&lt;/p&gt;&lt;p&gt;A2 — Resultado inválido:&lt;br&gt;Se o Administrador introduzir um resultado incorreto, incompleto ou com valores inválidos, o sistema apresenta a mensagem de erro &quot;Resultado inválido&quot; e solicita a correção dos dados.&lt;/p&gt;&lt;p&gt;A3 — Resultado já registado:&lt;br&gt;Se o jogo selecionado já tiver um resultado registado, o sistema apresenta a mensagem de erro &quot;Este jogo já tem resultado&quot; e impede um novo registo, exceto se o Administrador tiver permissões para editar.&lt;/p&gt;&lt;p&gt;A4 — Operação cancelada:&lt;br&gt;Se o Administrador fechar a janela ou cancelar a operação antes de confirmar o registo, o sistema não guarda qualquer alteração.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="860" width="630" x="2080" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

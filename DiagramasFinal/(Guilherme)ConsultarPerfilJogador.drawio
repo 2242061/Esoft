@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="fD2P74hcAk4QBIoeV1eU">
+    <mxGraphModel dx="2943" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Utilizador" vertex="1">
+          <mxGeometry height="1467" width="35" x="331" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Mundial 2026" vertex="1">
+          <mxGeometry height="1467" width="150" x="603" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Página Equipas" vertex="1">
+          <mxGeometry height="1467" width="150" x="807" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Jogador" vertex="1">
+          <mxGeometry height="1467" width="150" x="1082" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Estatísticas" vertex="1">
+          <mxGeometry height="1467" width="150" x="1282" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-6" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="196" width="973" x="395" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-7" parent="Es-sxoCL0kwwbF76wbxi-6" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Existem estatísticas]" vertex="1">
+          <mxGeometry height="20" width="943" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-8" parent="Es-sxoCL0kwwbF76wbxi-6" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Sem estatísticas]" vertex="1">
+          <mxGeometry height="4" width="973" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-9" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="760" width="993" x="385" y="632" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-10" parent="Es-sxoCL0kwwbF76wbxi-9" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Existem jogadores]" vertex="1">
+          <mxGeometry height="20" width="963" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-11" parent="Es-sxoCL0kwwbF76wbxi-9" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Sem jogadores]" vertex="1">
+          <mxGeometry height="4" width="993" y="569" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-12" parent="Es-sxoCL0kwwbF76wbxi-9" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Jogador inexistente]" vertex="1">
+          <mxGeometry height="4" width="993" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-13" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-2" value="1: seleciona opção &quot;Equipas&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-14" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-3" value="2: carregar equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-15" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="2.1: apresenta lista de equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-16" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-3" value="3: seleciona equipa">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-17" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-4" value="4: obter jogadores da equipa">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1028" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-18" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-3" value="4.1: devolve jogadores">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-19" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="4.2: apresenta jogadores">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="762" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-20" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-3" value="5: seleciona jogador">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-21" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-4" value="6: obter perfil">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1028" y="866" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-22" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-3" value="6.1: devolve dados pessoais">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031" y="918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-23" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-5" value="7: obter estatísticas recentes">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1128" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-24" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="7.1: apresenta estatísticas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="893" y="1068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-25" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="7.2: apresenta mensagem &quot;Sem estatísticas disponíveis&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="1166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-26" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="3.1: mostra mensagem &quot;Sem jogadores disponíveis&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="1274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-27" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-1" value="5.1: mostra erro &quot;Jogador inexistente&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="1372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwjy5ByxAXGTeO5oVcUJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;Caso de Uso: Consultar Perfil e Estatísticas do Jogador&lt;/p&gt;&lt;p&gt;Ator Principal:&lt;br&gt;Utilizador&lt;/p&gt;&lt;p&gt;Atores Secundários:&lt;br&gt;Sistema Mundial 2026&lt;br&gt;Página Equipas&lt;br&gt;Jogador&lt;br&gt;Estatística&lt;/p&gt;&lt;p&gt;Descrição:&lt;br&gt;Este caso de uso permite ao Utilizador consultar os jogadores de uma equipa no sistema Mundial 2026. O Utilizador acede à opção &quot;Equipas&quot;, seleciona uma equipa disponível e o sistema apresenta os jogadores associados a essa equipa. Depois, o Utilizador escolhe um jogador específico para consultar o seu perfil, incluindo dados pessoais e estatísticas recentes. Caso existam estatísticas, estas são apresentadas. Caso contrário, o sistema informa que não existem estatísticas disponíveis.&lt;/p&gt;&lt;p&gt;Pré-condições:&lt;br&gt;O Utilizador tem de ter acesso ao sistema Mundial 2026.&lt;br&gt;Tem de existir pelo menos uma equipa registada no sistema.&lt;br&gt;A equipa selecionada deve estar registada no sistema.&lt;br&gt;O jogador selecionado deve pertencer à equipa escolhida.&lt;br&gt;As informações dos jogadores devem estar disponíveis no sistema.&lt;/p&gt;&lt;p&gt;Fluxo Principal:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;O Utilizador seleciona a opção &quot;Equipas&quot;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema carrega a página de equipas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta a lista de equipas disponíveis.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Utilizador seleciona uma equipa.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém os jogadores associados à equipa selecionada.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica se existem jogadores nessa equipa.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema devolve a lista de jogadores.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta os jogadores disponíveis ao Utilizador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Utilizador seleciona um jogador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém o perfil do jogador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema devolve os dados pessoais do jogador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém as estatísticas recentes do jogador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica se existem estatísticas disponíveis.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta as estatísticas do jogador ao Utilizador.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Fluxos Alternativos:&lt;br&gt;A1 — Sem jogadores:&lt;br&gt;Se a equipa selecionada não tiver jogadores associados, o sistema apresenta a mensagem &quot;Sem jogadores disponíveis&quot; e impede a seleção de um jogador.&lt;/p&gt;&lt;p&gt;A2 — Jogador inexistente:&lt;br&gt;Se o Utilizador selecionar um jogador que não existe ou que já não está disponível no sistema, o sistema apresenta a mensagem de erro &quot;Jogador inexistente&quot;.&lt;/p&gt;&lt;p&gt;A3 — Sem estatísticas:&lt;br&gt;Se o jogador selecionado não tiver estatísticas registadas, o sistema apresenta a mensagem &quot;Sem estatísticas disponíveis&quot;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="960" width="630" x="1480" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

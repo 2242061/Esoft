@@ -125,7 +125,7 @@
                   <minimumSize width="-1" height="-1"/>
                   <opaque value="true"/>
                   <preferredSize width="258" height="30"/>
-                  <text value="Button"/>
+                  <text value="Entrar!"/>
                 </properties>
               </component>
             </children>

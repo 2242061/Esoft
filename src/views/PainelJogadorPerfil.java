@@ -151,7 +151,9 @@ public class PainelJogadorPerfil {
         painelFundo.add(btnBack);
         painelPrincipal.add(painelFundo, BorderLayout.SOUTH);
         // Botão Editar (Junto ao Back)
+
         JButton btnEditar = new JButton("Editar Jogador");
+        btnEditar.setVisible(CentralDeDados.getInstance().isAdmin());
         btnEditar.setBackground(new Color(240, 240, 240));
         btnEditar.setBorder(BorderFactory.createLineBorder(Color.BLACK, 2));
         btnEditar.setPreferredSize(new Dimension(150, 35));

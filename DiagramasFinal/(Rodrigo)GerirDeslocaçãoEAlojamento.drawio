@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="fD2P74hcAk4QBIoeV1eU">
+    <mxGraphModel dx="3433" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-91" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Administrador" vertex="1">
+          <mxGeometry height="1752" width="35" x="530" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-92" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Mundial 2026" vertex="1">
+          <mxGeometry height="1752" width="150" x="867" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-93" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Deslocação/Alojamento" vertex="1">
+          <mxGeometry height="1752" width="188" x="1067" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-94" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#000000,#CCCCCC);fontColor=light-dark(#333333,#cccccc);" value="Equipa" vertex="1">
+          <mxGeometry height="1752" width="150" x="1305" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-95" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Deslocação" vertex="1">
+          <mxGeometry height="1752" width="150" x="1505" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-96" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Alojamento" vertex="1">
+          <mxGeometry height="1752" width="150" x="1705" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-97" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="646" width="1197" x="594" y="1781" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-98" parent="Es-sxoCL0kwwbF76wbxi-97" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Dados válidos e alojamento disponível]" vertex="1">
+          <mxGeometry height="20" width="1167" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-99" parent="Es-sxoCL0kwwbF76wbxi-97" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Equipa inexistente]" vertex="1">
+          <mxGeometry height="4" width="1197" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-100" parent="Es-sxoCL0kwwbF76wbxi-97" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Alojamento indisponível]" vertex="1">
+          <mxGeometry height="4" width="1197" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-101" parent="Es-sxoCL0kwwbF76wbxi-97" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Dados em falta]" vertex="1">
+          <mxGeometry height="4" width="1197" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-102" parent="Es-sxoCL0kwwbF76wbxi-97" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Operação cancelada]" vertex="1">
+          <mxGeometry height="4" width="1197" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-103" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-91" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-92" value="1: inicia sessão">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="1211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-104" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-92" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="1.1: autenticação validada">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-105" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-91" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-92" value="2: seleciona &quot;Deslocação/Alojamento&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="1315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-106" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-92" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="3: abrir página">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-107" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-94" value="3.1: obter equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="1419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-108" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-94" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="3.2: devolve equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1282" y="1471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-109" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="3.3: apresenta equipas">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="1523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-110" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-91" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="4: seleciona equipa">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="892" y="1575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-111" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-91" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="5: preenche dados da deslocação">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="892" y="1627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-112" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-91" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="6: seleciona alojamento">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="892" y="1679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-113" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="curved=1;endArrow=block;rounded=0;" target="Es-sxoCL0kwwbF76wbxi-93" value="7: validar dados">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1212" y="1731" />
+              <mxPoint x="1212" y="1761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-114" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-95" value="8: registar deslocação">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1379" y="1859" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-115" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-95" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-93" value="8.1: deslocação criada">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1382" y="1911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-116" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-96" value="9: reservar alojamento">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1479" y="1963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-117" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-96" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="9.1: apresenta mensagem de sucesso">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="2015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-118" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="4.1: mostra erro &quot;Equipa inexistente&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="2113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-119" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="6.1: mostra erro &quot;Alojamento indisponível&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="2211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-120" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="7.1: mostra erro &quot;Preencha todos os campos&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="2309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Es-sxoCL0kwwbF76wbxi-121" edge="1" parent="1" source="Es-sxoCL0kwwbF76wbxi-93" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="Es-sxoCL0kwwbF76wbxi-91" value="5.1: fecha formulário sem guardar">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="2407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1juIaAAGjEN-bLaGJInG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;Caso de Uso: Atribuir Alojamento&lt;/p&gt;&lt;p&gt;Ator Principal:&lt;br&gt;Administrador&lt;/p&gt;&lt;p&gt;Atores Secundários:&lt;br&gt;Sistema Mundial 2026&lt;br&gt;Equipa&lt;br&gt;Delegação&lt;br&gt;Alojamento&lt;/p&gt;&lt;p&gt;Descrição:&lt;br&gt;Este caso de uso permite ao Administrador atribuir um alojamento a uma equipa ou delegação participante no Mundial 2026. O Administrador inicia sessão no sistema, acede à área de distribuição de alojamentos, seleciona a equipa pretendida e escolhe o alojamento disponível. Após a confirmação, o sistema valida os dados introduzidos, verifica se a equipa existe e se o alojamento está disponível. Caso tudo esteja correto, o sistema regista a atribuição do alojamento e atualiza a informação associada à delegação e ao alojamento.&lt;/p&gt;&lt;p&gt;Pré-condições:&lt;br&gt;O Administrador tem de estar autenticado no sistema.&lt;br&gt;A equipa tem de estar registada no sistema.&lt;br&gt;A delegação tem de estar associada a uma equipa participante.&lt;br&gt;Tem de existir pelo menos um alojamento disponível.&lt;br&gt;O alojamento selecionado não pode estar previamente atribuído a outra equipa ou delegação.&lt;/p&gt;&lt;p&gt;Fluxo Principal:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;O Administrador inicia sessão no sistema.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema valida a autenticação do Administrador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador acede à área de distribuição de alojamentos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema carrega a página de distribuição de alojamentos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema obtém a lista de equipas registadas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta ao Administrador as equipas disponíveis.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador seleciona a equipa pretendida.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador escolhe o alojamento a atribuir.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador confirma a atribuição do alojamento.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema valida os dados introduzidos.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica se a equipa existe.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica se o alojamento está disponível.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema regista a atribuição do alojamento à equipa/delegação.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema reserva o alojamento selecionado.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema atualiza a informação da delegação.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta uma mensagem de sucesso ao Administrador.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Fluxos Alternativos:&lt;br&gt;A1 — Equipa inexistente:&lt;br&gt;Se o Administrador selecionar uma equipa que não existe ou que não se encontra registada no sistema, o sistema apresenta a mensagem de erro &quot;Equipa inexistente&quot; e impede a atribuição do alojamento.&lt;/p&gt;&lt;p&gt;A2 — Alojamento indisponível:&lt;br&gt;Se o alojamento selecionado já estiver atribuído a outra equipa ou não estiver disponível, o sistema apresenta a mensagem de erro &quot;Alojamento indisponível&quot; e solicita a escolha de outro alojamento.&lt;/p&gt;&lt;p&gt;A3 — Dados em falta:&lt;br&gt;Se o Administrador não preencher todos os campos obrigatórios, o sistema apresenta a mensagem de erro &quot;Preencha todos os campos&quot; e não permite concluir a operação.&lt;/p&gt;&lt;p&gt;A4 — Operação cancelada:&lt;br&gt;Se o Administrador fechar a janela ou cancelar a operação antes de confirmar a atribuição, o sistema não guarda qualquer alteração.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="950" width="600" x="1870" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

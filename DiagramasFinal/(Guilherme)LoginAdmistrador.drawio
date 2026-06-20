@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="iNSzNGSeRPThtF1II10W">
+    <mxGraphModel dx="2289" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Administrador" vertex="1">
+          <mxGeometry height="1064" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Mundial 2026" vertex="1">
+          <mxGeometry height="1064" width="150" x="362" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Página Login" vertex="1">
+          <mxGeometry height="1064" width="150" x="596" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Utilizador" vertex="1">
+          <mxGeometry height="1064" width="150" x="812" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-5" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="248" width="814" x="84" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-6" parent="TxdGCR0Q0ct-f0XH_jGH-5" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Utilizador é administrador]" vertex="1">
+          <mxGeometry height="20" width="784" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-7" parent="TxdGCR0Q0ct-f0XH_jGH-5" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Sem permissões]" vertex="1">
+          <mxGeometry height="4" width="814" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-8" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="582" width="902" x="74" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-9" parent="TxdGCR0Q0ct-f0XH_jGH-8" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Credenciais válidas]" vertex="1">
+          <mxGeometry height="20" width="872" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-10" parent="TxdGCR0Q0ct-f0XH_jGH-8" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Campos vazios]" vertex="1">
+          <mxGeometry height="4" width="902" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-11" parent="TxdGCR0Q0ct-f0XH_jGH-8" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Credenciais inválidas]" vertex="1">
+          <mxGeometry height="4" width="902" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-12" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-2" value="1: acede à aplicação">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-13" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-3" value="2: abrir página de login">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-14" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-1" value="2.1: apresenta formulário de login">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-15" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-3" value="3: introduz email e password">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-16" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-3" value="4: clica no botão &quot;Entrar&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-17" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-4" value="5: validar credenciais">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-18" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-4" style="curved=1;endArrow=block;rounded=0;" target="TxdGCR0Q0ct-f0XH_jGH-4" value="6: verificar permissões">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="938" y="485" />
+              <mxPoint x="938" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-19" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-2" value="7: autenticação aceite">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="674" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-20" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-1" value="7.1: redireciona para dashboard admin">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-21" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-1" value="6.1: mostra erro &quot;Sem permissões&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="763" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-22" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-1" value="3.1: mostra erro &quot;Preencha todos os campos&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-23" edge="1" parent="1" source="TxdGCR0Q0ct-f0XH_jGH-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TxdGCR0Q0ct-f0XH_jGH-1" value="5.1: mostra erro &quot;Email ou password inválidos&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="969" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mundial 2026" vertex="1">
+          <mxGeometry height="70" width="148" x="364" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B8B7B7;" value="Página Login" vertex="1">
+          <mxGeometry height="70" width="154" x="596" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="TxdGCR0Q0ct-f0XH_jGH-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#b8b7b7, #ededed);" value="Utilizador" vertex="1">
+          <mxGeometry height="70" width="148" x="814" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="KbnHuWFix-5wfSYuBBI5-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p&gt;Caso de Uso: Iniciar Sessão&lt;/p&gt;&lt;p&gt;Ator Principal:&lt;br&gt;Administrador&lt;/p&gt;&lt;p&gt;Atores Secundários:&lt;br&gt;Sistema Mundial 2026&lt;br&gt;Página Login&lt;br&gt;Utilizador&lt;/p&gt;&lt;p&gt;Descrição:&lt;br&gt;Este caso de uso permite ao Administrador iniciar sessão no sistema Mundial 2026. O Administrador acede à aplicação, o sistema apresenta a página de login e solicita a introdução do email e da password. Após o preenchimento dos dados, o sistema valida as credenciais introduzidas e verifica se o utilizador possui permissões de administrador. Caso os dados sejam válidos e o utilizador tenha permissões, o sistema autentica o Administrador e redireciona-o para o dashboard de administração.&lt;/p&gt;&lt;p&gt;Pré-condições:&lt;br&gt;O Administrador tem de estar registado no sistema.&lt;br&gt;O Administrador tem de possuir credenciais válidas.&lt;br&gt;O sistema Mundial 2026 tem de estar disponível.&lt;br&gt;A página de login tem de estar acessível.&lt;br&gt;O utilizador tem de ter permissões de administrador para aceder ao dashboard admin.&lt;/p&gt;&lt;p&gt;Fluxo Principal:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;O Administrador acede à aplicação.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema abre a página de login.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema apresenta o formulário de login.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador introduz o email e a password.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O Administrador clica no botão &quot;Entrar&quot;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema valida as credenciais introduzidas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema verifica as permissões do utilizador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema confirma que o utilizador é administrador.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema autentica o Administrador com sucesso.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;O sistema redireciona o Administrador para o dashboard de administração.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Fluxos Alternativos:&lt;br&gt;A1 — Credenciais inválidas:&lt;br&gt;Se o email ou a password introduzidos estiverem incorretos, o sistema apresenta a mensagem de erro &quot;Email ou password inválidos&quot; e impede o acesso à aplicação.&lt;/p&gt;&lt;p&gt;A2 — Campos vazios:&lt;br&gt;Se o Administrador tentar iniciar sessão sem preencher todos os campos obrigatórios, o sistema apresenta a mensagem &quot;Preencha todos os campos&quot; e solicita o preenchimento do email e da password.&lt;/p&gt;&lt;p&gt;A3 — Sem permissões:&lt;br&gt;Se as credenciais forem válidas, mas o utilizador não tiver permissões de administrador, o sistema apresenta a mensagem &quot;Sem permissões&quot; e impede o acesso ao dashboard de administração.&lt;/p&gt;&lt;p&gt;A4 — Utilizador não é administrador:&lt;br&gt;Se o utilizador autenticado não tiver o perfil de administrador, o sistema não permite o acesso às funcionalidades administrativas.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="470" width="440" x="1130" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
