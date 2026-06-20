@@ -353,7 +353,6 @@ public class PainelGrupos {
             this.equipa = equipa;
         }
 
-        // Regras de Desempate (Pts -> DG -> Golos Marcados)
         @Override
         public int compareTo(EstatisticaEquipa outra) {
             if (this.pontos != outra.pontos) {
@@ -367,6 +366,7 @@ public class PainelGrupos {
             return Integer.compare(outra.golosMarcados, this.golosMarcados);
         }
     }
+
 
     class RoundedPanel extends JPanel {
         private int cornerRadius;

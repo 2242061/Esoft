@@ -1,0 +1,2 @@
+1;Administrador;admin@mundial.pt;1234;ADMIN
+2;Miguel;miguel@user.pt;1234;USER

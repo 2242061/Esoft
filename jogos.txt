@@ -1,2 +1,72 @@
-1;México;África do Sul;AT&T Stadium;17/07/2026;00:00
-2;México;Chéquia;Estadio Azteca;22/06/2026;20:00
+1;México;Chéquia;Estadio Azteca;11/06/2026;16:00
+2;Coreia do Sul;África do Sul;Estadio Akron;11/06/2026;19:00
+3;México;Coreia do Sul;Estadio Azteca;16/06/2026;16:00
+4;Chéquia;África do Sul;Estadio Akron;16/06/2026;19:00
+5;África do Sul;México;Estadio Azteca;21/06/2026;16:00
+6;Chéquia;Coreia do Sul;Estadio Akron;21/06/2026;19:00
+7;Canadá;Suíça;BMO Field;12/06/2026;16:00
+8;Bósnia-Herzegovina;Catar;BC Place;12/06/2026;19:00
+9;Canadá;Bósnia-Herzegovina;BMO Field;17/06/2026;16:00
+10;Suíça;Catar;BC Place;17/06/2026;19:00
+11;Catar;Canadá;BMO Field;22/06/2026;16:00
+12;Suíça;Bósnia-Herzegovina;BC Place;22/06/2026;19:00
+13;Brasil;Marrocos;SoFi Stadium;13/06/2026;16:00
+14;Escócia;Haiti;Lumen Field;13/06/2026;19:00
+15;Brasil;Escócia;SoFi Stadium;18/06/2026;16:00
+16;Marrocos;Haiti;Lumen Field;18/06/2026;19:00
+17;Haiti;Brasil;SoFi Stadium;23/06/2026;16:00
+18;Marrocos;Escócia;Lumen Field;23/06/2026;19:00
+19;Estados Unidos;Turquia;MetLife Stadium;14/06/2026;16:00
+20;Paraguai;Austrália;Lincoln Financial Field;14/06/2026;19:00
+21;Estados Unidos;Paraguai;MetLife Stadium;19/06/2026;16:00
+22;Turquia;Austrália;Lincoln Financial Field;19/06/2026;19:00
+23;Austrália;Estados Unidos;MetLife Stadium;24/06/2026;16:00
+24;Turquia;Paraguai;Lincoln Financial Field;24/06/2026;19:00
+25;Alemanha;Costa do Marfim;Mercedes-Benz Stadium;15/06/2026;16:00
+26;Equador;Curaçau;NRG Stadium;15/06/2026;19:00
+27;Alemanha;Equador;Mercedes-Benz Stadium;20/06/2026;16:00
+28;Costa do Marfim;Curaçau;NRG Stadium;20/06/2026;19:00
+29;Curaçau;Alemanha;Mercedes-Benz Stadium;25/06/2026;16:00
+30;Costa do Marfim;Equador;NRG Stadium;25/06/2026;19:00
+31;Países Baixos;Japão;AT&T Stadium;16/06/2026;16:00
+32;Suécia;Tunísia;SoFi Stadium;16/06/2026;19:00
+33;Países Baixos;Suécia;AT&T Stadium;21/06/2026;16:00
+34;Japão;Tunísia;SoFi Stadium;21/06/2026;19:00
+35;Tunísia;Países Baixos;AT&T Stadium;26/06/2026;16:00
+36;Japão;Suécia;SoFi Stadium;26/06/2026;19:00
+37;Bélgica;Egito;MetLife Stadium;17/06/2026;16:00
+38;Irão;Nova Zelândia;Lincoln Financial Field;17/06/2026;19:00
+39;Bélgica;Irão;MetLife Stadium;22/06/2026;16:00
+40;Egito;Nova Zelândia;Lincoln Financial Field;22/06/2026;19:00
+41;Nova Zelândia;Bélgica;MetLife Stadium;27/06/2026;16:00
+42;Egito;Irão;Lincoln Financial Field;27/06/2026;19:00
+43;Espanha;Uruguai;Mercedes-Benz Stadium;18/06/2026;16:00
+44;Arábia Saudita;Cabo Verde;NRG Stadium;18/06/2026;19:00
+45;Espanha;Arábia Saudita;Mercedes-Benz Stadium;23/06/2026;16:00
+46;Uruguai;Cabo Verde;NRG Stadium;23/06/2026;19:00
+47;Cabo Verde;Espanha;Mercedes-Benz Stadium;28/06/2026;16:00
+48;Uruguai;Arábia Saudita;NRG Stadium;28/06/2026;19:00
+49;França;Noruega;AT&T Stadium;19/06/2026;16:00
+50;Senegal;Iraque;SoFi Stadium;19/06/2026;19:00
+51;França;Senegal;AT&T Stadium;24/06/2026;16:00
+52;Noruega;Iraque;SoFi Stadium;24/06/2026;19:00
+53;Iraque;França;AT&T Stadium;29/06/2026;16:00
+54;Noruega;Senegal;SoFi Stadium;29/06/2026;19:00
+55;Argentina;Áustria;MetLife Stadium;20/06/2026;16:00
+56;Argélia;Jordânia;Lincoln Financial Field;20/06/2026;19:00
+57;Argentina;Argélia;MetLife Stadium;25/06/2026;16:00
+58;Áustria;Jordânia;Lincoln Financial Field;25/06/2026;19:00
+59;Jordânia;Argentina;MetLife Stadium;30/06/2026;16:00
+60;Áustria;Argélia;Lincoln Financial Field;30/06/2026;19:00
+61;Portugal;Colômbia;Mercedes-Benz Stadium;21/06/2026;16:00
+62;RD Congo;Uzbequistão;NRG Stadium;21/06/2026;19:00
+63;Portugal;RD Congo;Mercedes-Benz Stadium;26/06/2026;16:00
+64;Colômbia;Uzbequistão;NRG Stadium;26/06/2026;19:00
+65;Uzbequistão;Portugal;Mercedes-Benz Stadium;01/07/2026;16:00
+66;Colômbia;RD Congo;NRG Stadium;01/07/2026;19:00
+67;Inglaterra;Croácia;AT&T Stadium;22/06/2026;16:00
+68;Gana;Panamá;SoFi Stadium;22/06/2026;19:00
+69;Inglaterra;Gana;AT&T Stadium;27/06/2026;16:00
+70;Croácia;Panamá;SoFi Stadium;27/06/2026;19:00
+71;Panamá;Inglaterra;AT&T Stadium;02/07/2026;16:00
+72;Croácia;Gana;SoFi Stadium;02/07/2026;19:00

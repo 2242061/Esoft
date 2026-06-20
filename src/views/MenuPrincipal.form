@@ -30,7 +30,7 @@
               <size top="0" left="10" bottom="0" right="10"/>
             </border>
             <children>
-              <component id="60877" class="javax.swing.JLabel">
+              <component id="60877" class="javax.swing.JLabel" binding="Home">
                 <constraints border-constraint="Center"/>
                 <properties>
                   <background color="-1"/>
@@ -63,6 +63,7 @@
               <component id="91c2e" class="javax.swing.JButton" binding="estatisticasButton">
                 <constraints border-constraint="Center"/>
                 <properties>
+                  <hideActionText value="false"/>
                   <text value="Estatisticas"/>
                 </properties>
               </component>
@@ -176,6 +177,24 @@
               </component>
             </children>
           </grid>
+          <grid id="ccd86" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints/>
+            <properties>
+              <opaque value="false"/>
+              <preferredSize width="200" height="40"/>
+            </properties>
+            <border type="empty">
+              <size top="0" left="10" bottom="0" right="10"/>
+            </border>
+            <children>
+              <component id="9f3d7" class="javax.swing.JButton" binding="eliminatoriaButton">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <text value="Eliminatoria"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
         </children>
       </grid>
       <grid id="70a80" binding="painelConteudo" layout-manager="BorderLayout" hgap="0" vgap="0">
@@ -206,193 +225,6 @@
               <verticalTextPosition value="0"/>
             </properties>
           </component>
-          <grid id="ceb3b" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-            <constraints border-constraint="South"/>
-            <properties>
-              <opaque value="false"/>
-              <preferredSize width="0" height="150"/>
-            </properties>
-            <border type="empty">
-              <size top="0" left="0" bottom="0" right="0"/>
-            </border>
-            <children>
-              <grid id="9705a" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-                <constraints/>
-                <properties>
-                  <preferredSize width="260" height="140"/>
-                </properties>
-                <border type="empty">
-                  <size top="5" left="10" bottom="10" right="10"/>
-                </border>
-                <children>
-                  <component id="cfd0f" class="javax.swing.JLabel">
-                    <constraints/>
-                    <properties>
-                      <font size="20" style="1"/>
-                      <text value="Próximo Jogo"/>
-                    </properties>
-                  </component>
-                  <component id="ffbed" class="javax.swing.JLabel" binding="lblProximoJogo">
-                    <constraints/>
-                    <properties>
-                      <font size="20" style="1"/>
-                      <text value="Próximo Jogo"/>
-                    </properties>
-                  </component>
-                </children>
-              </grid>
-              <grid id="4ae62" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-                <constraints/>
-                <properties>
-                  <preferredSize width="260" height="140"/>
-                </properties>
-                <border type="empty">
-                  <size top="5" left="10" bottom="10" right="10"/>
-                </border>
-                <children>
-                  <component id="9374c" class="javax.swing.JLabel" binding="lblMelhorMarcador">
-                    <constraints/>
-                    <properties>
-                      <font size="20" style="1"/>
-                      <text value="Melhor Marcador"/>
-                    </properties>
-                  </component>
-                </children>
-              </grid>
-              <grid id="229a3" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-                <constraints/>
-                <properties>
-                  <preferredSize width="260" height="140"/>
-                </properties>
-                <border type="empty">
-                  <size top="5" left="10" bottom="10" right="10"/>
-                </border>
-                <children>
-                  <component id="bb611" class="javax.swing.JLabel" binding="lblMaiorEstadio">
-                    <constraints/>
-                    <properties>
-                      <font size="20" style="1"/>
-                      <text value="Maior Estádio"/>
-                    </properties>
-                  </component>
-                </children>
-              </grid>
-            </children>
-          </grid>
-          <grid id="31c30" layout-manager="BorderLayout" hgap="0" vgap="0">
-            <constraints border-constraint="Center"/>
-            <properties>
-              <opaque value="false"/>
-              <preferredSize width="0" height="0"/>
-            </properties>
-            <border type="empty">
-              <size top="20" left="35" bottom="20" right="35"/>
-            </border>
-            <children>
-              <grid id="15276" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-                <constraints border-constraint="West"/>
-                <properties>
-                  <background color="-15069144"/>
-                  <preferredSize width="385" height="0"/>
-                </properties>
-                <border type="empty">
-                  <size top="10" left="10" bottom="10" right="10"/>
-                </border>
-                <children>
-                  <component id="f53ee" class="javax.swing.JLabel">
-                    <constraints/>
-                    <properties>
-                      <background color="-1"/>
-                      <font size="28" style="1"/>
-                      <foreground color="-1"/>
-                      <text value="Jogo Com Maior Profit"/>
-                    </properties>
-                  </component>
-                  <grid id="468aa" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="200" height="70"/>
-                    </properties>
-                    <border type="none" title="Data"/>
-                    <children/>
-                  </grid>
-                  <grid id="5badf" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="350" height="150"/>
-                    </properties>
-                    <border type="none" title="Jogo"/>
-                    <children/>
-                  </grid>
-                  <grid id="b1528" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="350" height="120"/>
-                    </properties>
-                    <border type="none" title="Vendas"/>
-                    <children/>
-                  </grid>
-                </children>
-              </grid>
-              <grid id="b901f" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
-                <constraints border-constraint="East"/>
-                <properties>
-                  <background color="-15069144"/>
-                  <preferredSize width="385" height="0"/>
-                </properties>
-                <border type="empty">
-                  <size top="10" left="10" bottom="10" right="10"/>
-                </border>
-                <children>
-                  <component id="81348" class="javax.swing.JLabel">
-                    <constraints/>
-                    <properties>
-                      <background color="-1"/>
-                      <font size="28" style="1"/>
-                      <foreground color="-1"/>
-                      <text value="Vendas Totais"/>
-                    </properties>
-                  </component>
-                  <grid id="e42ec" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="200" height="70"/>
-                    </properties>
-                    <border type="none" title="Data Até"/>
-                    <children/>
-                  </grid>
-                  <grid id="8beaf" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="350" height="150"/>
-                    </properties>
-                    <border type="none" title="Vendas"/>
-                    <children/>
-                  </grid>
-                  <grid id="a17b6" layout-manager="BorderLayout" hgap="0" vgap="0">
-                    <constraints/>
-                    <properties>
-                      <foreground color="-1"/>
-                      <opaque value="false"/>
-                      <preferredSize width="350" height="120"/>
-                    </properties>
-                    <border type="none" title="Ultimo Jogo"/>
-                    <children/>
-                  </grid>
-                </children>
-              </grid>
-            </children>
-          </grid>
         </children>
       </grid>
     </children>

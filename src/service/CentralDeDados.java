@@ -1,12 +1,6 @@
 package service;
 
-import model.Alojamento;
-import model.Arbitro;
-import model.Equipa;
-import model.Estadio;
-import model.EstatisticaJogador;
-import model.Jogador;
-import model.Jogo;
+import model.*;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -30,7 +24,10 @@ public class CentralDeDados {
     private List<Jogador> jogadores;
     private List<EstatisticaJogador> estatisticas;
     private List<Arbitro> arbitros;
-    private List<Alojamento> alojamentos; // Faltava declarar esta variável!
+    private List<Utilizador> utilizadores;
+    private List<Alojamento> alojamentos;
+    private List<Eliminatoria> listaEliminatorias;
+
 
     private final String FICHEIRO_JOGADORES = "jogadores.txt";
     private final String FICHEIRO_JOGOS = "jogos.txt";
@@ -39,6 +36,7 @@ public class CentralDeDados {
     private final String FICHEIRO_ESTATISTICAS = "estatisticas.txt";
     private final String FICHEIRO_FICHAS = "fichas_jogo.txt";
     private final String FICHEIRO_ALOJAMENTOS = "alojamento.txt";
+    private final String FICHEIRO_UTILIZADORES = "utilizadores.txt";
 
     private CentralDeDados() {
         equipas = new ArrayList<>();
@@ -47,15 +45,16 @@ public class CentralDeDados {
         jogadores = new ArrayList<>();
         estatisticas = new ArrayList<>();
         arbitros = new ArrayList<>();
-        alojamentos = new ArrayList<>(); // Inicializada
-
-        gerarEquipas(); // Agora chama-se só gerarEquipas, o resto vem de ficheiros
+        alojamentos = new ArrayList<>();
+        utilizadores = new ArrayList<>();
+        gerarEquipas();
         carregarEstadiosDoFicheiro();
         carregarAlojamentos();
         carregarJogadoresDoFicheiro();
         carregarEstatisticasDoFicheiro();
         carregarArbitros();
         carregarJogosDoFicheiro();
+        carregarUtilizadores();
     }
 
     public static CentralDeDados getInstance() {
@@ -323,6 +322,7 @@ public class CentralDeDados {
         }
         return jogadoresFicha;
     }
+
     // Retorna um array com [GolosCasa, GolosFora] ou null se o jogo ainda não se realizou
     public int[] getResultadoJogo(int idJogo) {
         java.io.File ficheiroResultados = new java.io.File("resultados.txt");
@@ -342,6 +342,83 @@ public class CentralDeDados {
         return null;
     }
 
+
+    // ifnos base dashboard
+
+    public Estadio getMaiorEstadio() {
+        Estadio maior = null;
+        for (Estadio e : estadios) {
+            if (maior == null || e.getCapacidade() > maior.getCapacidade()) {
+                maior = e;
+            }
+        }
+        return maior;
+    }
+
+    public Jogador getMelhorMarcador() {
+        Jogador melhor = null;
+        int maxGolos = -1;
+        for (Jogador j : jogadores) {
+            int golos = getTotalGolos(j.getId());
+            if (golos > maxGolos) {
+                maxGolos = golos;
+                melhor = j;
+            }
+        }
+        return melhor;
+    }
+
+    public Jogo getProximoJogo() {
+        for (Jogo j : jogos) {
+            // Verifica se o resultado é nulo (ainda não aconteceu)
+            if (getResultadoJogo(j.getId()) == null) {
+                return j; // Retorna o primeiro que encontrar sem resultado
+            }
+        }
+        return null; // Caso todos os jogos já tenham resultados (torneio terminado)
+    }
+
+    private void carregarUtilizadores() {
+        java.io.File ficheiro = new java.io.File(FICHEIRO_UTILIZADORES);
+
+        // Se não existir ou estiver vazio, cria o Admin e guarda no txt!
+        if (!ficheiro.exists() || ficheiro.length() == 0) {
+            Utilizador admin = new Utilizador(1, "Administrador", "admin@mundial.pt", "1234", "ADMIN");
+            utilizadores.add(admin);
+
+            try (java.io.BufferedWriter bw = new java.io.BufferedWriter(new java.io.FileWriter(ficheiro))) {
+                bw.write(admin.getId() + ";" + admin.getNome() + ";" + admin.getEmail() + ";" + admin.getPassword() + ";" + admin.getTipo());
+                bw.newLine();
+            } catch (Exception e) {
+                System.out.println("Erro a criar ficheiro de utilizadores.");
+            }
+            return;
+        }
+
+
+
+        // Se já existir, lê os dados normalmente
+        try (java.io.BufferedReader br = new java.io.BufferedReader(new java.io.FileReader(ficheiro))) {
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                String[] p = linha.split(";");
+                if (p.length == 5) {
+                    utilizadores.add(new Utilizador(Integer.parseInt(p[0]), p[1], p[2], p[3], p[4]));
+                }
+            }
+        } catch (Exception e) {
+            System.out.println("Erro ao carregar utilizadores: " + e.getMessage());
+        }
+    }
+
+
+
+
+
+
+
+
+    public List<Utilizador> getUtilizadores() { return utilizadores; }
     // ==========================================
     // 5. GETTERS BÁSICOS
     // ==========================================
@@ -352,6 +429,7 @@ public class CentralDeDados {
     public List<Jogador> getJogadores() { return jogadores; }
     public List<Arbitro> getArbitros() { return arbitros; }
     public List<Alojamento> getAlojamentos() { return alojamentos; }
+
 
     // ==========================================
     // 6. GERAÇÃO DE DADOS BASE
@@ -423,3 +501,12 @@ public class CentralDeDados {
         equipas.add(new Equipa(48, "Panamá", "Panamá", "L"));
     }
 }
+
+
+
+
+
+
+
+
+
